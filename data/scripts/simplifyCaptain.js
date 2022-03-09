@@ -25,6 +25,6 @@ Object.keys(sliceData).forEach(name => {
 
 // console.log(captainCnt)
 
-fs.writeFileSync(resolve(__dirname, '../../results/captains/captains-simplied-uid.json'), JSON.stringify(simplfiedDataUid, null, 2))
-fs.writeFileSync(resolve(__dirname, '../../results/captains/captains-simplied-name.json'), JSON.stringify(simplfiedDataName, null, 2))
-fs.writeFileSync(resolve(__dirname, '../../results/captains/captains-simplied-all.json'), JSON.stringify(simplfiedDataAll, null, 2))
+fs.writeFileSync(resolve(__dirname, '../results/captains/captains-simplied-uid.json'), JSON.stringify(simplfiedDataUid, null, 2))
+fs.writeFileSync(resolve(__dirname, '../results/captains/captains-simplied-name.json'), JSON.stringify(simplfiedDataName, null, 2))
+fs.writeFileSync(resolve(__dirname, '../results/captains/captains-simplied-all.json'), JSON.stringify(simplfiedDataAll, null, 2))

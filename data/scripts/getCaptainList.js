@@ -4,7 +4,7 @@ const axios = require('axios').default
 const fs = require('fs')
 const { resolve } = require('path')
 
-const sliceIndex = 1
+const sliceIndex = 11
 
 console.log(sliceIndex)
 
@@ -106,7 +106,7 @@ let allInterval = setInterval(() => {
 const saveInterval = setInterval(() => {
   if (successNameList.length === nameList.length) {
     // refer to all is done, then save it
-    fs.writeFileSync(resolve(__dirname, `../results/captains/${sliceIndex}.json`), JSON.stringify(captainData, null, 2))
+    fs.writeFileSync(resolve(__dirname, `../results/captains/slice/${sliceIndex}.json`), JSON.stringify(captainData, null, 2))
     clearInterval(saveInterval)
   }
 }, 3000)
