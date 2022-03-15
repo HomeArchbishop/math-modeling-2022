@@ -1,0 +1,11002 @@
+{
+  "泠鸢yousa": {
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    }
+  },
+  "hanser": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "shourei小N": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "hanser"
+    }
+  },
+  "祖娅纳惜": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "新月冰冰": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    }
+  },
+  "多多poi丶": {
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "shourei小N": {
+      "conn": true,
+      "target": "shourei小N"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "冰糖IO": {
+      "conn": true,
+      "target": "冰糖IO"
+    }
+  },
+  "神楽七奈Official": {
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "鹿乃ちゃん"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "神楽Mea_Official": {
+      "conn": true,
+      "target": "神楽Mea_Official"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    }
+  },
+  "鹿乃ちゃん": {
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "鹿乃ちゃん"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "鹿乃ちゃん"
+    },
+    "茉吱Mojuko": {
+      "conn": true,
+      "target": "鹿乃ちゃん"
+    }
+  },
+  "AIChannel官方": {
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "AIChannel官方"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "AIChannel中国绊爱": {
+      "conn": true,
+      "target": "AIChannel官方"
+    },
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "AIChannel官方"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    }
+  },
+  "嘉然今天吃什么": {
+    "珈乐Carol": {
+      "conn": true,
+      "target": "珈乐Carol"
+    },
+    "向晚大魔王": {
+      "conn": true,
+      "target": "向晚大魔王"
+    },
+    "贝拉kira": {
+      "conn": true,
+      "target": "贝拉kira"
+    },
+    "乃琳Queen": {
+      "conn": true,
+      "target": "乃琳Queen"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    }
+  },
+  "C酱です": {
+    "小狼XF": {
+      "conn": true,
+      "target": "C酱です"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "C酱です"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "C酱です"
+    },
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "C酱です"
+    },
+    "泰蕾莎Channel": {
+      "conn": true,
+      "target": "C酱です"
+    }
+  },
+  "小狼XF": {
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "小狼XF"
+    },
+    "月隐空夜": {
+      "conn": true,
+      "target": "月隐空夜"
+    },
+    "一块电鹿板": {
+      "conn": true,
+      "target": "一块电鹿板"
+    },
+    "赤星组Channel": {
+      "conn": true,
+      "target": "小狼XF"
+    },
+    "本气黑猫": {
+      "conn": true,
+      "target": "本气黑猫"
+    }
+  },
+  "一块电鹿板": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "一块电鹿板"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "一块电鹿板"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "一块电鹿板"
+    },
+    "坏宝Huaib": {
+      "conn": true,
+      "target": "一块电鹿板"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "一块电鹿板"
+    }
+  },
+  "冰糖IO": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "冰糖IO"
+    },
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "冰糖IO"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "冰糖IO"
+    }
+  },
+  "HiiroVTuber": {
+    "茉吱Mojuko": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    }
+  },
+  "神楽Mea_Official": {
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "神楽Mea_Official"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "犬山玉姬Official": {
+      "conn": true,
+      "target": "神楽Mea_Official"
+    },
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "神楽Mea_Official"
+    },
+    "帕里_Paryi": {
+      "conn": true,
+      "target": "神楽Mea_Official"
+    }
+  },
+  "shourei小N": {
+    "多多poi丶": {
+      "conn": true,
+      "target": "shourei小N"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "shourei小N"
+    },
+    "❀Sakulaˇ小舞": {
+      "conn": true,
+      "target": "shourei小N"
+    }
+  },
+  "扶桑大红花丶": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "陆鳐LuLu": {
+      "conn": true,
+      "target": "扶桑大红花丶"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "扶桑大红花丶"
+    }
+  },
+  "AIChannel中国绊爱": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "AIChannel官方": {
+      "conn": true,
+      "target": "AIChannel官方"
+    },
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "鹿乃ちゃん"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    }
+  },
+  "新月冰冰": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "多多poi丶"
+    },
+    "冰糖IO": {
+      "conn": true,
+      "target": "冰糖IO"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    }
+  },
+  "七海Nana7mi": {
+    "多多poi丶": {
+      "conn": true,
+      "target": "七海Nana7mi"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "七海Nana7mi"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "七海Nana7mi"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "七海Nana7mi"
+    }
+  },
+  "咩栗": {
+    "呜米": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    }
+  },
+  "月隐空夜": {
+    "小狼XF": {
+      "conn": true,
+      "target": "月隐空夜"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "茉吱Mojuko": {
+      "conn": true,
+      "target": "月隐空夜"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    }
+  },
+  "陆鳐LuLu": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "陆鳐LuLu"
+    }
+  },
+  "本气黑猫": {
+    "小狼XF": {
+      "conn": true,
+      "target": "本气黑猫"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "月隐空夜": {
+      "conn": true,
+      "target": "月隐空夜"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "泰蕾莎Channel": {
+      "conn": true,
+      "target": "泰蕾莎Channel"
+    }
+  },
+  "白神遥Haruka": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    },
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    }
+  },
+  "乃琳Queen": {
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "乃琳Queen"
+    },
+    "珈乐Carol": {
+      "conn": true,
+      "target": "乃琳Queen"
+    },
+    "向晚大魔王": {
+      "conn": true,
+      "target": "乃琳Queen"
+    },
+    "贝拉kira": {
+      "conn": true,
+      "target": "乃琳Queen"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "乃琳Queen"
+    }
+  },
+  "Overidea_China": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "冰糖IO": {
+      "conn": true,
+      "target": "冰糖IO"
+    },
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "Overidea_China"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "Overidea_China"
+    }
+  },
+  "早稻叽": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "早稻叽"
+    }
+  },
+  "贝拉kira": {
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "贝拉kira"
+    },
+    "珈乐Carol": {
+      "conn": true,
+      "target": "贝拉kira"
+    },
+    "向晚大魔王": {
+      "conn": true,
+      "target": "贝拉kira"
+    },
+    "乃琳Queen": {
+      "conn": true,
+      "target": "贝拉kira"
+    },
+    "坏宝Huaib": {
+      "conn": true,
+      "target": "贝拉kira"
+    }
+  },
+  "花园Serena": {
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "花园Serena"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "花园Serena"
+    }
+  },
+  "有栖Mana_Official": {
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "神楽七奈Official"
+    },
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "鹿乃ちゃん"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    }
+  },
+  "阿萨Aza": {
+    "罗伊_Roi": {
+      "conn": true,
+      "target": "阿萨Aza"
+    },
+    "溯月Sotsuki": {
+      "conn": true,
+      "target": "阿萨Aza"
+    },
+    "果汁erR": {
+      "conn": true,
+      "target": "阿萨Aza"
+    },
+    "凛-阿格里亚斯": {
+      "conn": true,
+      "target": "阿萨Aza"
+    },
+    "塔克Tako": {
+      "conn": true,
+      "target": "阿萨Aza"
+    }
+  },
+  "向晚大魔王": {
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "向晚大魔王"
+    },
+    "珈乐Carol": {
+      "conn": true,
+      "target": "向晚大魔王"
+    },
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "向晚大魔王"
+    },
+    "乃琳Queen": {
+      "conn": true,
+      "target": "向晚大魔王"
+    },
+    "贝拉kira": {
+      "conn": true,
+      "target": "向晚大魔王"
+    }
+  },
+  "菜菜子Nanako": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "蜜汁工坊": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    }
+  },
+  "恋乃夜舞_propro": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "恋乃夜舞_propro"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "茉吱Mojuko": {
+      "conn": true,
+      "target": "恋乃夜舞_propro"
+    },
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "恋乃夜舞_propro"
+    }
+  },
+  "小希小桃Channel": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "Overidea_China": {
+      "conn": true,
+      "target": "Overidea_China"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    }
+  },
+  "蕾尔娜Leona": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "蕾尔娜Leona"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    }
+  },
+  "呜米": {
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "呜米"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "呜米"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    }
+  },
+  "珈乐Carol": {
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "珈乐Carol"
+    },
+    "向晚大魔王": {
+      "conn": true,
+      "target": "珈乐Carol"
+    },
+    "乃琳Queen": {
+      "conn": true,
+      "target": "珈乐Carol"
+    },
+    "贝拉kira": {
+      "conn": true,
+      "target": "珈乐Carol"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "珈乐Carol"
+    }
+  },
+  "茉吱Mojuko": {
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "鹿乃ちゃん"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "神楽七奈Official"
+    },
+    "星奈铃-官方WACTOR": {
+      "conn": true,
+      "target": "星奈铃-官方WACTOR"
+    }
+  },
+  "泰蕾莎Channel": {
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    }
+  },
+  "YUKIri": {
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "多多poi丶"
+    },
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "鹿乃ちゃん"
+    },
+    "阿萨Aza": {
+      "conn": true,
+      "target": "阿萨Aza"
+    }
+  },
+  "伊万_iiivan": {
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    }
+  },
+  "阿梓从小就很可爱": {
+    "小可学妹": {
+      "conn": true,
+      "target": "阿梓从小就很可爱"
+    },
+    "七海Nana7mi": {
+      "conn": true,
+      "target": "阿梓从小就很可爱"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "阿梓从小就很可爱"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "阿梓从小就很可爱"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "阿梓从小就很可爱"
+    }
+  },
+  "绯赤艾莉欧Official": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "绯赤艾莉欧Official"
+    },
+    "花园Serena": {
+      "conn": true,
+      "target": "花园Serena"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    }
+  },
+  "猫宫日向Official": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "神楽七奈Official"
+    },
+    "AIChannel官方": {
+      "conn": true,
+      "target": "AIChannel官方"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    }
+  },
+  "星宮汐Official": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "茉吱Mojuko": {
+      "conn": true,
+      "target": "星宮汐Official"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "星宮汐Official"
+    }
+  },
+  "i御十二": {
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "i御十二"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    }
+  },
+  "帕里_Paryi": {
+    "赫卡Tia": {
+      "conn": true,
+      "target": "帕里_Paryi"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "帕里_Paryi"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "帕里_Paryi"
+    },
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "神楽七奈Official"
+    }
+  },
+  "花丸晴琉Official": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "花丸晴琉Official"
+    },
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "花丸晴琉Official"
+    },
+    "小东人魚Official": {
+      "conn": true,
+      "target": "花丸晴琉Official"
+    },
+    "琴吹夢_official": {
+      "conn": true,
+      "target": "花丸晴琉Official"
+    }
+  },
+  "是姬拉Kira": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "陆鳐LuLu": {
+      "conn": true,
+      "target": "陆鳐LuLu"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    }
+  },
+  "还有醒着的么": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "还有醒着的么"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "还有醒着的么"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    }
+  },
+  "犬山玉姬Official": {
+    "V子Official": {
+      "conn": true,
+      "target": "犬山玉姬Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "犬山玉姬Official"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "犬山玉姬Official"
+    },
+    "神楽Mea_Official": {
+      "conn": true,
+      "target": "神楽Mea_Official"
+    },
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "神楽七奈Official"
+    }
+  },
+  "奈姬niki": {
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "奈姬niki"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    }
+  },
+  "物述有栖Official": {
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "物述有栖Official"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "物述有栖Official"
+    },
+    "神楽Mea_Official": {
+      "conn": true,
+      "target": "物述有栖Official"
+    },
+    "花丸晴琉Official": {
+      "conn": true,
+      "target": "物述有栖Official"
+    }
+  },
+  "梦音茶糯": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "梦音茶糯"
+    },
+    "陆鳐LuLu": {
+      "conn": true,
+      "target": "梦音茶糯"
+    },
+    "彼岸霜滢Eliro": {
+      "conn": true,
+      "target": "梦音茶糯"
+    }
+  },
+  "小可学妹": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "阿梓从小就很可爱": {
+      "conn": true,
+      "target": "阿梓从小就很可爱"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "小可学妹"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "小可学妹"
+    }
+  },
+  "永雏塔菲": {
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "永雏塔菲"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "永雏塔菲"
+    },
+    "茉吱Mojuko": {
+      "conn": true,
+      "target": "永雏塔菲"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "永雏塔菲"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    }
+  },
+  "@黎之恒": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "@黎之恒"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "@黎之恒"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    }
+  },
+  "冥冥meichan": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "陆鳐LuLu": {
+      "conn": true,
+      "target": "陆鳐LuLu"
+    },
+    "扶桑大红花丶": {
+      "conn": true,
+      "target": "扶桑大红花丶"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    }
+  },
+  "疾風醬": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "疾風醬"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "疾風醬"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    }
+  },
+  "Ruriko琉璃子Channel": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "泰蕾莎Channel": {
+      "conn": true,
+      "target": "泰蕾莎Channel"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    }
+  },
+  "雫るる_Official": {
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "茉吱Mojuko": {
+      "conn": true,
+      "target": "雫るる_Official"
+    },
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "雫るる_Official"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "雫るる_Official"
+    }
+  },
+  "Akie秋绘": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "多多poi丶"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "鹿乃ちゃん"
+    }
+  },
+  "你的可樱已上线": {
+    "高原守Channel": {
+      "conn": true,
+      "target": "你的可樱已上线"
+    },
+    "奈姬niki": {
+      "conn": true,
+      "target": "奈姬niki"
+    },
+    "kinoko杂菌": {
+      "conn": true,
+      "target": "你的可樱已上线"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    }
+  },
+  "怠惰V_official": {
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "茉吱Mojuko": {
+      "conn": true,
+      "target": "怠惰V_official"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "恋乃夜舞_propro": {
+      "conn": true,
+      "target": "恋乃夜舞_propro"
+    }
+  },
+  "花花Haya": {
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "花花Haya"
+    },
+    "月隐空夜": {
+      "conn": true,
+      "target": "花花Haya"
+    },
+    "新月冰冰": {
+      "conn": true,
+      "target": "花花Haya"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "花花Haya"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    }
+  },
+  "琉绮Ruki": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "琉绮Ruki"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "琉绮Ruki"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "琉绮Ruki"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "琉绮Ruki"
+    }
+  },
+  "可愛的島風": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "可愛的島風"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "可愛的島風"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "郡道美玲的养豚厂": {
+      "conn": true,
+      "target": "可愛的島風"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    }
+  },
+  "木糖纯Official": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "新月冰冰": {
+      "conn": true,
+      "target": "木糖纯Official"
+    },
+    "花花Haya": {
+      "conn": true,
+      "target": "花花Haya"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "冰糖IO": {
+      "conn": true,
+      "target": "冰糖IO"
+    }
+  },
+  "鹿子kanoco": {
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "鹿子kanoco"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "kinoko杂菌": {
+      "conn": true,
+      "target": "鹿子kanoco"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "多多poi丶"
+    }
+  },
+  "夏诺雅_shanoa": {
+    "茉吱Mojuko": {
+      "conn": true,
+      "target": "夏诺雅_shanoa"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "花园Serena": {
+      "conn": true,
+      "target": "花园Serena"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    }
+  },
+  "葛叶Official": {
+    "叶Official": {
+      "conn": true,
+      "target": "叶Official"
+    },
+    "SoulliesOfficial": {
+      "conn": true,
+      "target": "葛叶Official"
+    },
+    "阿萨Aza": {
+      "conn": true,
+      "target": "阿萨Aza"
+    },
+    "本间向日葵Official": {
+      "conn": true,
+      "target": "葛叶Official"
+    },
+    "Overidea_China": {
+      "conn": true,
+      "target": "Overidea_China"
+    }
+  },
+  "雪狐桑": {
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    },
+    "彼岸霜滢Eliro": {
+      "conn": true,
+      "target": "雪狐桑"
+    }
+  },
+  "叶Official": {
+    "葛叶Official": {
+      "conn": true,
+      "target": "叶Official"
+    },
+    "SoulliesOfficial": {
+      "conn": true,
+      "target": "叶Official"
+    },
+    "阿萨Aza": {
+      "conn": true,
+      "target": "阿萨Aza"
+    },
+    "本间向日葵Official": {
+      "conn": true,
+      "target": "叶Official"
+    },
+    "Overidea_China": {
+      "conn": true,
+      "target": "Overidea_China"
+    }
+  },
+  "七濑Unia": {
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "早稻叽": {
+      "conn": true,
+      "target": "早稻叽"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    }
+  },
+  "田中姬铃木雏Official": {
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "鹿乃ちゃん"
+    },
+    "AIChannel官方": {
+      "conn": true,
+      "target": "AIChannel官方"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "神楽七奈Official"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    }
+  },
+  "乙女音Official": {
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "花园Serena": {
+      "conn": true,
+      "target": "花园Serena"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    }
+  },
+  "v猫诺v": {
+    "C酱です": {
+      "conn": true,
+      "target": "C酱です"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "v猫诺v"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    }
+  },
+  "步玎Pudding": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "多多poi丶"
+    }
+  },
+  "钉宫妮妮Ninico": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "冰糖IO": {
+      "conn": true,
+      "target": "冰糖IO"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    }
+  },
+  "本间向日葵Official": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "鹿乃ちゃん"
+    },
+    "神楽Mea_Official": {
+      "conn": true,
+      "target": "神楽Mea_Official"
+    },
+    "AIChannel官方": {
+      "conn": true,
+      "target": "AIChannel官方"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    }
+  },
+  "笹木咲Official": {
+    "赫卡Tia": {
+      "conn": true,
+      "target": "笹木咲Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "笹木咲Official"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "笹木咲Official"
+    },
+    "帕里_Paryi": {
+      "conn": true,
+      "target": "帕里_Paryi"
+    },
+    "犬山玉姬Official": {
+      "conn": true,
+      "target": "犬山玉姬Official"
+    }
+  },
+  "彼岸霜滢Eliro": {
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "早稻叽": {
+      "conn": true,
+      "target": "早稻叽"
+    }
+  },
+  "兮子cc": {
+    "扶桑大红花丶": {
+      "conn": true,
+      "target": "扶桑大红花丶"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "冰糖IO": {
+      "conn": true,
+      "target": "冰糖IO"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    }
+  },
+  "黑泽诺亚NOIR": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "陆鳐LuLu": {
+      "conn": true,
+      "target": "陆鳐LuLu"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "早稻叽": {
+      "conn": true,
+      "target": "早稻叽"
+    }
+  },
+  "琴吹夢_official": {
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "神楽Mea_Official": {
+      "conn": true,
+      "target": "神楽Mea_Official"
+    },
+    "花丸晴琉Official": {
+      "conn": true,
+      "target": "花丸晴琉Official"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "冰糖IO": {
+      "conn": true,
+      "target": "冰糖IO"
+    }
+  },
+  "勺Shaun": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "多多poi丶"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    }
+  },
+  "夢乃栞Yumeno_Shiori": {
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "夢乃栞Yumeno_Shiori"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "花园Serena": {
+      "conn": true,
+      "target": "花园Serena"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "恋乃夜舞_propro": {
+      "conn": true,
+      "target": "恋乃夜舞_propro"
+    }
+  },
+  "小虾鱼Official": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "田汐汐_Official": {
+      "conn": true,
+      "target": "小虾鱼Official"
+    },
+    "伊万_iiivan": {
+      "conn": true,
+      "target": "伊万_iiivan"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "小虾鱼Official"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "小虾鱼Official"
+    }
+  },
+  "加加゛": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "加加゛"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "加加゛"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "加加゛"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "加加゛"
+    },
+    "一块电鹿板": {
+      "conn": true,
+      "target": "一块电鹿板"
+    }
+  },
+  "QQ星": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "QQ星"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "QQ星"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "@黎之恒": {
+      "conn": true,
+      "target": "QQ星"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    }
+  },
+  "星奈铃-官方WACTOR": {
+    "茉吱Mojuko": {
+      "conn": true,
+      "target": "星奈铃-官方WACTOR"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "九重紫Official": {
+      "conn": true,
+      "target": "星奈铃-官方WACTOR"
+    }
+  },
+  "夏川玥玥Official": {
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "小小约yoo": {
+      "conn": true,
+      "target": "夏川玥玥Official"
+    }
+  },
+  "叫我默默酱": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "叫我默默酱"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "叫我默默酱"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "叫我默默酱"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "kinoko杂菌": {
+      "conn": true,
+      "target": "叫我默默酱"
+    }
+  },
+  "ShizukouOfficial": {
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "神楽Mea_Official": {
+      "conn": true,
+      "target": "神楽Mea_Official"
+    }
+  },
+  "早见咲Saki": {
+    "赫卡Tia": {
+      "conn": true,
+      "target": "早见咲Saki"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "早见咲Saki"
+    },
+    "帕里_Paryi": {
+      "conn": true,
+      "target": "帕里_Paryi"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "早见咲Saki"
+    }
+  },
+  "罗伊_Roi": {
+    "阿萨Aza": {
+      "conn": true,
+      "target": "阿萨Aza"
+    },
+    "塔克Tako": {
+      "conn": true,
+      "target": "塔克Tako"
+    },
+    "Overidea_China": {
+      "conn": true,
+      "target": "Overidea_China"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "果汁erR": {
+      "conn": true,
+      "target": "罗伊_Roi"
+    }
+  },
+  "天曰小雏Official": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "恋乃夜舞_propro": {
+      "conn": true,
+      "target": "恋乃夜舞_propro"
+    }
+  },
+  "小小约yoo": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    }
+  },
+  "❀Sakulaˇ小舞": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "多多poi丶"
+    },
+    "shourei小N": {
+      "conn": true,
+      "target": "shourei小N"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    }
+  },
+  "白雪深白Official": {
+    "犬山玉姬Official": {
+      "conn": true,
+      "target": "犬山玉姬Official"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "白雪深白Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "白雪深白Official"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "白雪深白Official"
+    },
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "神楽七奈Official"
+    }
+  },
+  "切茜娅CheIsea": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    }
+  },
+  "時雨羽衣Official": {
+    "赫卡Tia": {
+      "conn": true,
+      "target": "時雨羽衣Official"
+    },
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "時雨羽衣Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "時雨羽衣Official"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "時雨羽衣Official"
+    },
+    "犬山玉姬Official": {
+      "conn": true,
+      "target": "犬山玉姬Official"
+    }
+  },
+  "穆小泠Official": {
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "早稻叽": {
+      "conn": true,
+      "target": "早稻叽"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    }
+  },
+  "東雪蓮Official": {
+    "永雏塔菲": {
+      "conn": true,
+      "target": "永雏塔菲"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "七海Nana7mi": {
+      "conn": true,
+      "target": "七海Nana7mi"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    }
+  },
+  "V子Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "V子Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "V子Official"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    }
+  },
+  "九重紫Official": {
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "茉吱Mojuko": {
+      "conn": true,
+      "target": "九重紫Official"
+    },
+    "星奈铃-官方WACTOR": {
+      "conn": true,
+      "target": "星奈铃-官方WACTOR"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    }
+  },
+  "一支橘猫": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "神楽七奈Official"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "陆鳐LuLu": {
+      "conn": true,
+      "target": "陆鳐LuLu"
+    }
+  },
+  "心斎桥オクトOfficial": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "Overidea_China": {
+      "conn": true,
+      "target": "Overidea_China"
+    },
+    "阿萨Aza": {
+      "conn": true,
+      "target": "阿萨Aza"
+    },
+    "一块电鹿板": {
+      "conn": true,
+      "target": "一块电鹿板"
+    },
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "鹿乃ちゃん"
+    }
+  },
+  "超想吃番茄": {
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "多多poi丶"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "shourei小N": {
+      "conn": true,
+      "target": "shourei小N"
+    }
+  },
+  "艾因Eine": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "七海Nana7mi": {
+      "conn": true,
+      "target": "七海Nana7mi"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "多多poi丶"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    }
+  },
+  "杜松子_Gin": {
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "早稻叽": {
+      "conn": true,
+      "target": "早稻叽"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    }
+  },
+  "安晴Ankii": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "安晴Ankii"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "安晴Ankii"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "安晴Ankii"
+    },
+    "@黎之恒": {
+      "conn": true,
+      "target": "安晴Ankii"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    }
+  },
+  "茶冷_Channel": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    },
+    "蕾米Remi": {
+      "conn": true,
+      "target": "茶冷_Channel"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "多多poi丶"
+    }
+  },
+  "胡桃Usa": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    }
+  },
+  "美波七海-official": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "美波七海-official"
+    },
+    "星宮汐Official": {
+      "conn": true,
+      "target": "星宮汐Official"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    }
+  },
+  "不举萌栗": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "不举萌栗"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "不举萌栗"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "不举萌栗"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "不举萌栗"
+    },
+    "陆鳐LuLu": {
+      "conn": true,
+      "target": "陆鳐LuLu"
+    }
+  },
+  "红晓音Akane": {
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    },
+    "早稻叽": {
+      "conn": true,
+      "target": "早稻叽"
+    }
+  },
+  "綾奈奈奈": {
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    },
+    "冰糖IO": {
+      "conn": true,
+      "target": "冰糖IO"
+    }
+  },
+  "高原守Channel": {
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "一块电鹿板": {
+      "conn": true,
+      "target": "一块电鹿板"
+    },
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "鹿乃ちゃん"
+    },
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "高原守Channel"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    }
+  },
+  "希亚娜Ciyana": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "永雏塔菲": {
+      "conn": true,
+      "target": "永雏塔菲"
+    },
+    "冰糖IO": {
+      "conn": true,
+      "target": "冰糖IO"
+    }
+  },
+  "铃音_Official": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "早稻叽": {
+      "conn": true,
+      "target": "早稻叽"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    }
+  },
+  "猫芒ベル_Official": {
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "琴吹夢_official": {
+      "conn": true,
+      "target": "猫芒ベル_Official"
+    },
+    "茉吱Mojuko": {
+      "conn": true,
+      "target": "猫芒ベル_Official"
+    },
+    "花园Serena": {
+      "conn": true,
+      "target": "花园Serena"
+    }
+  },
+  "ywwuyi": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "ywwuyi"
+    },
+    "神楽Mea_Official": {
+      "conn": true,
+      "target": "神楽Mea_Official"
+    },
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "鹿乃ちゃん"
+    },
+    "七海Nana7mi": {
+      "conn": true,
+      "target": "七海Nana7mi"
+    }
+  },
+  "星瞳_Official": {
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "珈乐Carol": {
+      "conn": true,
+      "target": "珈乐Carol"
+    },
+    "贝拉kira": {
+      "conn": true,
+      "target": "贝拉kira"
+    },
+    "乃琳Queen": {
+      "conn": true,
+      "target": "乃琳Queen"
+    },
+    "向晚大魔王": {
+      "conn": true,
+      "target": "向晚大魔王"
+    }
+  },
+  "兰音Reine": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "小希小桃Channel": {
+      "conn": true,
+      "target": "小希小桃Channel"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    }
+  },
+  "莉泽Official": {
+    "赫卡Tia": {
+      "conn": true,
+      "target": "莉泽Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "莉泽Official"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "莉泽Official"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "蜜汁工坊": {
+      "conn": true,
+      "target": "莉泽Official"
+    }
+  },
+  "古守血遊official": {
+    "乙女音Official": {
+      "conn": true,
+      "target": "古守血遊official"
+    },
+    "绯赤艾莉欧Official": {
+      "conn": true,
+      "target": "古守血遊official"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "鈴宮鈴": {
+      "conn": true,
+      "target": "古守血遊official"
+    },
+    "白雪艾莉娅_Official": {
+      "conn": true,
+      "target": "古守血遊official"
+    }
+  },
+  "蜜汁工坊": {
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "蜜汁工坊"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    }
+  },
+  "阳向心美Official": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "神楽Mea_Official": {
+      "conn": true,
+      "target": "神楽Mea_Official"
+    },
+    "物述有栖Official": {
+      "conn": true,
+      "target": "物述有栖Official"
+    },
+    "星宮汐Official": {
+      "conn": true,
+      "target": "星宮汐Official"
+    }
+  },
+  "凛-阿格里亚斯": {
+    "阿萨Aza": {
+      "conn": true,
+      "target": "阿萨Aza"
+    },
+    "塔克Tako": {
+      "conn": true,
+      "target": "塔克Tako"
+    },
+    "果汁erR": {
+      "conn": true,
+      "target": "果汁erR"
+    },
+    "Overidea_China": {
+      "conn": true,
+      "target": "Overidea_China"
+    },
+    "溯月Sotsuki": {
+      "conn": true,
+      "target": "凛-阿格里亚斯"
+    }
+  },
+  "古堡龙姬": {
+    "永恒娘Official": {
+      "conn": true,
+      "target": "永恒娘Official"
+    },
+    "dodo_Official": {
+      "conn": true,
+      "target": "dodo_Official"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "C酱です": {
+      "conn": true,
+      "target": "C酱です"
+    },
+    "冰糖IO": {
+      "conn": true,
+      "target": "冰糖IO"
+    }
+  },
+  "白雪艾莉娅_Official": {
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "花园Serena": {
+      "conn": true,
+      "target": "花园Serena"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "绯赤艾莉欧Official": {
+      "conn": true,
+      "target": "白雪艾莉娅_Official"
+    },
+    "乙女音Official": {
+      "conn": true,
+      "target": "白雪艾莉娅_Official"
+    }
+  },
+  "扇宝": {
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "小小约yoo": {
+      "conn": true,
+      "target": "扇宝"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    }
+  },
+  "鹰宫莉音Official": {
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "鹰宫莉音Official"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "鹰宫莉音Official"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "鹰宫莉音Official"
+    },
+    "帕里_Paryi": {
+      "conn": true,
+      "target": "鹰宫莉音Official"
+    }
+  },
+  "子花酱Hanako": {
+    "V子Official": {
+      "conn": true,
+      "target": "子花酱Hanako"
+    },
+    "@黎之恒": {
+      "conn": true,
+      "target": "子花酱Hanako"
+    },
+    "扶桑大红花丶": {
+      "conn": true,
+      "target": "扶桑大红花丶"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    },
+    "你的可樱已上线": {
+      "conn": true,
+      "target": "你的可樱已上线"
+    }
+  },
+  "雨街F": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "雨街F"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    }
+  },
+  "鈴宮鈴": {
+    "花园Serena": {
+      "conn": true,
+      "target": "花园Serena"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "白雪艾莉娅_Official": {
+      "conn": true,
+      "target": "白雪艾莉娅_Official"
+    },
+    "古守血遊official": {
+      "conn": true,
+      "target": "古守血遊official"
+    }
+  },
+  "筱魈Syou": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "筱魈Syou"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "筱魈Syou"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "筱魈Syou"
+    }
+  },
+  "星弥Hoshimi": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "七海Nana7mi": {
+      "conn": true,
+      "target": "七海Nana7mi"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "多多poi丶"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    }
+  },
+  "蕾蕾大表哥": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "妙妙子Official": {
+      "conn": true,
+      "target": "蕾蕾大表哥"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "奈姬niki": {
+      "conn": true,
+      "target": "蕾蕾大表哥"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    }
+  },
+  "静凛Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "静凛Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "静凛Official"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "静凛Official"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "静凛Official"
+    },
+    "蜜汁工坊": {
+      "conn": true,
+      "target": "静凛Official"
+    }
+  },
+  "见风kaze": {
+    "陆鳐LuLu": {
+      "conn": true,
+      "target": "陆鳐LuLu"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    },
+    "蕾尔娜Leona": {
+      "conn": true,
+      "target": "蕾尔娜Leona"
+    }
+  },
+  "物理魔法使哈娜酱": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "物理魔法使哈娜酱"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "物理魔法使哈娜酱"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "物理魔法使哈娜酱"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "物理魔法使哈娜酱"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "物理魔法使哈娜酱"
+    }
+  },
+  "彩虹酱哇": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "彩虹酱哇"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "彩虹酱哇"
+    },
+    "@黎之恒": {
+      "conn": true,
+      "target": "彩虹酱哇"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "彩虹酱哇"
+    },
+    "郡道美玲的养豚厂": {
+      "conn": true,
+      "target": "彩虹酱哇"
+    }
+  },
+  "池年": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "陆鳐LuLu": {
+      "conn": true,
+      "target": "陆鳐LuLu"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    }
+  },
+  "鹿野灸": {
+    "一块电鹿板": {
+      "conn": true,
+      "target": "鹿野灸"
+    },
+    "空镜KAGAMI": {
+      "conn": true,
+      "target": "鹿野灸"
+    },
+    "阿萨Aza": {
+      "conn": true,
+      "target": "阿萨Aza"
+    },
+    "蝶太": {
+      "conn": true,
+      "target": "鹿野灸"
+    },
+    "团小哈": {
+      "conn": true,
+      "target": "鹿野灸"
+    }
+  },
+  "椎名唯华Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "椎名唯华Official"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "椎名唯华Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "椎名唯华Official"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    }
+  },
+  "龙胆尊Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "龙胆尊Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "龙胆尊Official"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "龙胆尊Official"
+    }
+  },
+  "佩内洛珀-克莱因Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "佩内洛珀-克莱因Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "佩内洛珀-克莱因Official"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    }
+  },
+  "雪绘Yukie": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    }
+  },
+  "尼奈nine_Official": {
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "@黎之恒": {
+      "conn": true,
+      "target": "尼奈nine_Official"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "永雏塔菲": {
+      "conn": true,
+      "target": "永雏塔菲"
+    }
+  },
+  "椎名菜羽Official": {
+    "有栖Mana_Official": {
+      "conn": true,
+      "target": "椎名菜羽Official"
+    },
+    "花园Serena": {
+      "conn": true,
+      "target": "花园Serena"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    }
+  },
+  "妙妙子Official": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "蕾蕾大表哥": {
+      "conn": true,
+      "target": "蕾蕾大表哥"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "七海Nana7mi": {
+      "conn": true,
+      "target": "七海Nana7mi"
+    }
+  },
+  "小东人魚Official": {
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "鹿乃ちゃん"
+    },
+    "花丸晴琉Official": {
+      "conn": true,
+      "target": "花丸晴琉Official"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "神楽Mea_Official": {
+      "conn": true,
+      "target": "神楽Mea_Official"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    }
+  },
+  "梭梭树": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "梭梭树"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "梭梭树"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "扶桑大红花丶": {
+      "conn": true,
+      "target": "扶桑大红花丶"
+    },
+    "郡道美玲的养豚厂": {
+      "conn": true,
+      "target": "梭梭树"
+    }
+  },
+  "眞白花音_Official": {
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "乙女音Official": {
+      "conn": true,
+      "target": "眞白花音_Official"
+    },
+    "鈴宮鈴": {
+      "conn": true,
+      "target": "眞白花音_Official"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "眞白花音_Official"
+    },
+    "白雪艾莉娅_Official": {
+      "conn": true,
+      "target": "眞白花音_Official"
+    }
+  },
+  "魔王酱Maou_": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "魔王酱Maou_"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "魔王酱Maou_"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "魔王酱Maou_"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "蜜汁工坊": {
+      "conn": true,
+      "target": "魔王酱Maou_"
+    }
+  },
+  "Kanna_康娜Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "Kanna_康娜Official"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "Kanna_康娜Official"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "Kanna_康娜Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    }
+  },
+  "未来明-MiraiAkari": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "未来明-MiraiAkari"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "未来明-MiraiAkari"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "未来明-MiraiAkari"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    }
+  },
+  "米白zzz": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "多多poi丶"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "冰糖IO": {
+      "conn": true,
+      "target": "冰糖IO"
+    }
+  },
+  "修女克蕾雅Official": {
+    "神楽Mea_Official": {
+      "conn": true,
+      "target": "神楽Mea_Official"
+    },
+    "物述有栖Official": {
+      "conn": true,
+      "target": "物述有栖Official"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "花园Serena": {
+      "conn": true,
+      "target": "花园Serena"
+    },
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "鹿乃ちゃん"
+    }
+  },
+  "早凉": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "彼岸霜滢Eliro": {
+      "conn": true,
+      "target": "早凉"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    }
+  },
+  "乌拉の帝国Official": {
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "冰糖IO": {
+      "conn": true,
+      "target": "冰糖IO"
+    },
+    "泰蕾莎Channel": {
+      "conn": true,
+      "target": "泰蕾莎Channel"
+    }
+  },
+  "小恶魔channel": {
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "泰蕾莎Channel": {
+      "conn": true,
+      "target": "泰蕾莎Channel"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    }
+  },
+  "孙有劲Sunyeojin": {
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "神楽七奈Official"
+    },
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "鹿乃ちゃん"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "花园Serena": {
+      "conn": true,
+      "target": "花园Serena"
+    }
+  },
+  "小柔Channel": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "小希小桃Channel": {
+      "conn": true,
+      "target": "小柔Channel"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "兰音Reine": {
+      "conn": true,
+      "target": "小柔Channel"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    }
+  },
+  "折原露露": {
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "陆鳐LuLu": {
+      "conn": true,
+      "target": "陆鳐LuLu"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "多多poi丶"
+    }
+  },
+  "JohnkoOfficial": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "JohnkoOfficial"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "JohnkoOfficial"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    }
+  },
+  "紗耶_sayako": {
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "彼岸霜滢Eliro": {
+      "conn": true,
+      "target": "紗耶_sayako"
+    },
+    "阿梓从小就很可爱": {
+      "conn": true,
+      "target": "阿梓从小就很可爱"
+    }
+  },
+  "混沌之神-最终虚妄": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "混沌之神-最终虚妄"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "混沌之神-最终虚妄"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "混沌之神-最终虚妄"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "混沌之神-最终虚妄"
+    }
+  },
+  "安洁Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "安洁Official"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "安洁Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "安洁Official"
+    }
+  },
+  "米哦Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "米哦Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "米哦Official"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "米哦Official"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "米哦Official"
+    },
+    "一块电鹿板": {
+      "conn": true,
+      "target": "一块电鹿板"
+    }
+  },
+  "まこと-macoto官方": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "まこと-macoto官方"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "まこと-macoto官方"
+    },
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "鹿乃ちゃん"
+    }
+  },
+  "文静_千鸟Official": {
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "永雏塔菲": {
+      "conn": true,
+      "target": "永雏塔菲"
+    },
+    "星瞳_Official": {
+      "conn": true,
+      "target": "文静_千鸟Official"
+    },
+    "珈乐Carol": {
+      "conn": true,
+      "target": "珈乐Carol"
+    },
+    "乃琳Queen": {
+      "conn": true,
+      "target": "乃琳Queen"
+    }
+  },
+  "烛灵儿Hikari": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "扶桑大红花丶": {
+      "conn": true,
+      "target": "扶桑大红花丶"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    }
+  },
+  "yakko暗影": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "yakko暗影"
+    },
+    "一块电鹿板": {
+      "conn": true,
+      "target": "一块电鹿板"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "yakko暗影"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    }
+  },
+  "千草はな": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "千草はな"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "千草はな"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "千草はな"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "千草はな"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "千草はな"
+    }
+  },
+  "赫卡Tia": {
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "蜜汁工坊": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    }
+  },
+  "白百合リリィOfficial": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "白百合リリィOfficial"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "白百合リリィOfficial"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "白百合リリィOfficial"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    }
+  },
+  "塔克Tako": {
+    "溯月Sotsuki": {
+      "conn": true,
+      "target": "塔克Tako"
+    },
+    "阿萨Aza": {
+      "conn": true,
+      "target": "阿萨Aza"
+    },
+    "凛-阿格里亚斯": {
+      "conn": true,
+      "target": "塔克Tako"
+    },
+    "果汁erR": {
+      "conn": true,
+      "target": "塔克Tako"
+    },
+    "罗伊_Roi": {
+      "conn": true,
+      "target": "塔克Tako"
+    }
+  },
+  "樋口枫Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "樋口枫Official"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "樋口枫Official"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "樋口枫Official"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    }
+  },
+  "猫雷NyaRu_Official": {
+    "永雏塔菲": {
+      "conn": true,
+      "target": "永雏塔菲"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "茉吱Mojuko": {
+      "conn": true,
+      "target": "猫雷NyaRu_Official"
+    },
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "猫雷NyaRu_Official"
+    },
+    "まこと-macoto官方": {
+      "conn": true,
+      "target": "猫雷NyaRu_Official"
+    }
+  },
+  "小伞一把Kokasa": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "小伞一把Kokasa"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "小伞一把Kokasa"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "小伞一把Kokasa"
+    },
+    "kinoko杂菌": {
+      "conn": true,
+      "target": "小伞一把Kokasa"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    }
+  },
+  "绿仙Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "绿仙Official"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "绿仙Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "绿仙Official"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    }
+  },
+  "戌亥床Official": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "神楽Mea_Official": {
+      "conn": true,
+      "target": "神楽Mea_Official"
+    },
+    "物述有栖Official": {
+      "conn": true,
+      "target": "物述有栖Official"
+    },
+    "花丸晴琉Official": {
+      "conn": true,
+      "target": "花丸晴琉Official"
+    }
+  },
+  "凤玲天天Official": {
+    "赫卡Tia": {
+      "conn": true,
+      "target": "凤玲天天Official"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "凤玲天天Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "凤玲天天Official"
+    },
+    "帕里_Paryi": {
+      "conn": true,
+      "target": "凤玲天天Official"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    }
+  },
+  "希月萌奈": {
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    },
+    "彼岸霜滢Eliro": {
+      "conn": true,
+      "target": "希月萌奈"
+    }
+  },
+  "三日暦Official": {
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "鹿乃ちゃん"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "神楽七奈Official"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "三日暦Official"
+    },
+    "星宮汐Official": {
+      "conn": true,
+      "target": "星宮汐Official"
+    }
+  },
+  "诺拉Nora_Heitis": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "月隐空夜": {
+      "conn": true,
+      "target": "月隐空夜"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    }
+  },
+  "里奈Rina": {
+    "赫卡Tia": {
+      "conn": true,
+      "target": "里奈Rina"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "里奈Rina"
+    },
+    "阿梓从小就很可爱": {
+      "conn": true,
+      "target": "阿梓从小就很可爱"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    }
+  },
+  "adogsama": {
+    "C酱です": {
+      "conn": true,
+      "target": "C酱です"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "鹿乃ちゃん"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "adogsama"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    }
+  },
+  "勾檀Mayumi": {
+    "蕾米Remi": {
+      "conn": true,
+      "target": "勾檀Mayumi"
+    },
+    "七海Nana7mi": {
+      "conn": true,
+      "target": "七海Nana7mi"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    }
+  },
+  "东爱璃Lovely": {
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "红晓音Akane": {
+      "conn": true,
+      "target": "东爱璃Lovely"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    }
+  },
+  "田汐汐_Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "田汐汐_Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "田汐汐_Official"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "田汐汐_Official"
+    }
+  },
+  "喵田弥夜Miya": {
+    "高原守Channel": {
+      "conn": true,
+      "target": "喵田弥夜Miya"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "永雏塔菲": {
+      "conn": true,
+      "target": "永雏塔菲"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    }
+  },
+  "科尔Channel": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "科尔Channel"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "科尔Channel"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "科尔Channel"
+    },
+    "蜜汁工坊": {
+      "conn": true,
+      "target": "科尔Channel"
+    },
+    "郡道美玲的养豚厂": {
+      "conn": true,
+      "target": "科尔Channel"
+    }
+  },
+  "Zoe_舟一": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "Zoe_舟一"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "Zoe_舟一"
+    },
+    "@黎之恒": {
+      "conn": true,
+      "target": "Zoe_舟一"
+    },
+    "陆鳐LuLu": {
+      "conn": true,
+      "target": "陆鳐LuLu"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    }
+  },
+  "vivian198808": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "vivian198808"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "vivian198808"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "vivian198808"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "vivian198808"
+    }
+  },
+  "蕾米Remi": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    },
+    "七海Nana7mi": {
+      "conn": true,
+      "target": "七海Nana7mi"
+    }
+  },
+  "秋凛子Rinco": {
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "红晓音Akane": {
+      "conn": true,
+      "target": "秋凛子Rinco"
+    },
+    "蜜汁工坊": {
+      "conn": true,
+      "target": "秋凛子Rinco"
+    }
+  },
+  "莉姬LIJI": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "莉姬LIJI"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "莉姬LIJI"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "莉姬LIJI"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "莉姬LIJI"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "莉姬LIJI"
+    }
+  },
+  "喵奈Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "喵奈Official"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "喵奈Official"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "喵奈Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "喵奈Official"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "喵奈Official"
+    }
+  },
+  "花留Karu": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "花留Karu"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "花留Karu"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "花留Karu"
+    }
+  },
+  "郡道美玲Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "郡道美玲Official"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "郡道美玲Official"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "郡道美玲Official"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "郡道美玲Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "郡道美玲Official"
+    }
+  },
+  "奶茶姬": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "多多poi丶"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    }
+  },
+  "窥酱Channel": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "窥酱Channel"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "窥酱Channel"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "窥酱Channel"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "窥酱Channel"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "窥酱Channel"
+    }
+  },
+  "星川莎拉_Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "星川莎拉_Official"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "星川莎拉_Official"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "星川莎拉_Official"
+    }
+  },
+  "西园千草的喵面鱼塘": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "西园千草的喵面鱼塘"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "西园千草的喵面鱼塘"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "西园千草的喵面鱼塘"
+    }
+  },
+  "安堂いなり_official": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    }
+  },
+  "温之九Dolores": {
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "温之九Dolores"
+    },
+    "小狼XF": {
+      "conn": true,
+      "target": "温之九Dolores"
+    },
+    "一块电鹿板": {
+      "conn": true,
+      "target": "温之九Dolores"
+    },
+    "疾風醬": {
+      "conn": true,
+      "target": "温之九Dolores"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "温之九Dolores"
+    }
+  },
+  "花满Official": {
+    "高原守Channel": {
+      "conn": true,
+      "target": "花满Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "花满Official"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "花满Official"
+    },
+    "蜜汁工坊": {
+      "conn": true,
+      "target": "花满Official"
+    },
+    "南宫灯official": {
+      "conn": true,
+      "target": "花满Official"
+    }
+  },
+  "陆婉莹GodRiku": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "陆婉莹GodRiku"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "陆婉莹GodRiku"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "陆婉莹GodRiku"
+    },
+    "蜜汁工坊": {
+      "conn": true,
+      "target": "陆婉莹GodRiku"
+    }
+  },
+  "森永みうofficial": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "森永みうofficial"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "森永みうofficial"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "森永みうofficial"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    }
+  },
+  "苺病くすりOfficial": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "苺病くすりOfficial"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "苺病くすりOfficial"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "犬山玉姬Official": {
+      "conn": true,
+      "target": "犬山玉姬Official"
+    }
+  },
+  "朵一酱Duoyi": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "朵一酱Duoyi"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "朵一酱Duoyi"
+    },
+    "@黎之恒": {
+      "conn": true,
+      "target": "朵一酱Duoyi"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    }
+  },
+  "鳥取鹿子Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "鳥取鹿子Official"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "鳥取鹿子Official"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "鳥取鹿子Official"
+    },
+    "坏宝Huaib": {
+      "conn": true,
+      "target": "鳥取鹿子Official"
+    },
+    "蜜汁工坊": {
+      "conn": true,
+      "target": "鳥取鹿子Official"
+    }
+  },
+  "天气阿准official": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "多多poi丶"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "扶桑大红花丶": {
+      "conn": true,
+      "target": "扶桑大红花丶"
+    }
+  },
+  "昙露流月Channel": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "昙露流月Channel"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "鹿乃ちゃん"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "昙露流月Channel"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    }
+  },
+  "家长麦Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "家长麦Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "家长麦Official"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "家长麦Official"
+    }
+  },
+  "帅比笙歌超可爱OvO": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "小可学妹": {
+      "conn": true,
+      "target": "小可学妹"
+    },
+    "阿梓从小就很可爱": {
+      "conn": true,
+      "target": "阿梓从小就很可爱"
+    }
+  },
+  "织月黛黛": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "织月黛黛"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "织月黛黛"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "郡道美玲的养豚厂": {
+      "conn": true,
+      "target": "织月黛黛"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "织月黛黛"
+    }
+  },
+  "弥希Miki": {
+    "七海Nana7mi": {
+      "conn": true,
+      "target": "七海Nana7mi"
+    },
+    "蕾米Remi": {
+      "conn": true,
+      "target": "弥希Miki"
+    },
+    "永雏塔菲": {
+      "conn": true,
+      "target": "永雏塔菲"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    }
+  },
+  "dodo_Official": {
+    "古堡龙姬": {
+      "conn": true,
+      "target": "dodo_Official"
+    },
+    "永恒娘Official": {
+      "conn": true,
+      "target": "dodo_Official"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "奥克塔维娅Channel": {
+      "conn": true,
+      "target": "dodo_Official"
+    },
+    "珈乐Carol": {
+      "conn": true,
+      "target": "珈乐Carol"
+    }
+  },
+  "幽乜Yume": {
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "伊万_iiivan": {
+      "conn": true,
+      "target": "伊万_iiivan"
+    },
+    "陆鳐LuLu": {
+      "conn": true,
+      "target": "陆鳐LuLu"
+    }
+  },
+  "佐仓•M•沙耶加": {
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "佐仓•M•沙耶加"
+    },
+    "C酱です": {
+      "conn": true,
+      "target": "C酱です"
+    },
+    "小狼XF": {
+      "conn": true,
+      "target": "佐仓•M•沙耶加"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "犬山玉姬Official": {
+      "conn": true,
+      "target": "佐仓•M•沙耶加"
+    }
+  },
+  "玉白_official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "玉白_official"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "玉白_official"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "郡道美玲的养豚厂": {
+      "conn": true,
+      "target": "玉白_official"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "玉白_official"
+    }
+  },
+  "召唤师yami": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "星宮汐Official": {
+      "conn": true,
+      "target": "星宮汐Official"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "花园Serena": {
+      "conn": true,
+      "target": "花园Serena"
+    }
+  },
+  "蜜球兔": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "七海Nana7mi": {
+      "conn": true,
+      "target": "七海Nana7mi"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "小可学妹": {
+      "conn": true,
+      "target": "小可学妹"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    }
+  },
+  "千春_Chiharu": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "七海Nana7mi": {
+      "conn": true,
+      "target": "七海Nana7mi"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "蕾米Remi": {
+      "conn": true,
+      "target": "千春_Chiharu"
+    },
+    "小可学妹": {
+      "conn": true,
+      "target": "小可学妹"
+    }
+  },
+  "Kiroko96": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "Kiroko96"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "Kiroko96"
+    },
+    "一块电鹿板": {
+      "conn": true,
+      "target": "一块电鹿板"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "郡道美玲的养豚厂": {
+      "conn": true,
+      "target": "Kiroko96"
+    }
+  },
+  "魔宫永恋Mamiya": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "魔宫永恋Mamiya"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "魔宫永恋Mamiya"
+    },
+    "蜜汁工坊": {
+      "conn": true,
+      "target": "魔宫永恋Mamiya"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "魔宫永恋Mamiya"
+    },
+    "@黎之恒": {
+      "conn": true,
+      "target": "魔宫永恋Mamiya"
+    }
+  },
+  "神奈希_Official": {
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "陆鳐LuLu": {
+      "conn": true,
+      "target": "陆鳐LuLu"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "神奈希_Official"
+    },
+    "疾風醬": {
+      "conn": true,
+      "target": "神奈希_Official"
+    }
+  },
+  "星汐Seki": {
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    }
+  },
+  "山崎薰薰": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "山崎薰薰"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "山崎薰薰"
+    },
+    "郡道美玲的养豚厂": {
+      "conn": true,
+      "target": "山崎薰薰"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "山崎薰薰"
+    },
+    "赤星组Channel": {
+      "conn": true,
+      "target": "山崎薰薰"
+    }
+  },
+  "稻荷月いなり": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "稻荷月いなり"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "稻荷月いなり"
+    },
+    "一块电鹿板": {
+      "conn": true,
+      "target": "一块电鹿板"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "郡道美玲的养豚厂": {
+      "conn": true,
+      "target": "稻荷月いなり"
+    }
+  },
+  "轴伊Joi_Channel": {
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "七海Nana7mi": {
+      "conn": true,
+      "target": "七海Nana7mi"
+    },
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "神楽七奈Official"
+    }
+  },
+  "电脑少女siro_小白": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "电脑少女siro_小白"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "电脑少女siro_小白"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "电脑少女siro_小白"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    }
+  },
+  "白桃Shirako": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "白桃Shirako"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "白桃Shirako"
+    },
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "鹿乃ちゃん"
+    },
+    "扶桑大红花丶": {
+      "conn": true,
+      "target": "扶桑大红花丶"
+    }
+  },
+  "巫沐Umo": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "巫沐Umo"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "巫沐Umo"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    }
+  },
+  "默磷Mayori": {
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "默磷Mayori"
+    },
+    "一块电鹿板": {
+      "conn": true,
+      "target": "一块电鹿板"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "神楽Mea_Official": {
+      "conn": true,
+      "target": "神楽Mea_Official"
+    }
+  },
+  "茉里Mari": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "七海Nana7mi": {
+      "conn": true,
+      "target": "七海Nana7mi"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "勺Shaun": {
+      "conn": true,
+      "target": "勺Shaun"
+    }
+  },
+  "犬山奈奈Channel": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "犬山奈奈Channel"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "犬山奈奈Channel"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "犬山奈奈Channel"
+    },
+    "蜜汁工坊": {
+      "conn": true,
+      "target": "犬山奈奈Channel"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    }
+  },
+  "早濑弥生Official": {
+    "花园Serena": {
+      "conn": true,
+      "target": "花园Serena"
+    },
+    "神楽Mea_Official": {
+      "conn": true,
+      "target": "神楽Mea_Official"
+    },
+    "星宮汐Official": {
+      "conn": true,
+      "target": "星宮汐Official"
+    },
+    "夏诺雅_shanoa": {
+      "conn": true,
+      "target": "夏诺雅_shanoa"
+    },
+    "花丸晴琉Official": {
+      "conn": true,
+      "target": "花丸晴琉Official"
+    }
+  },
+  "鹤祁_Tsuruki": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "泰蕾莎Channel": {
+      "conn": true,
+      "target": "泰蕾莎Channel"
+    },
+    "冰糖IO": {
+      "conn": true,
+      "target": "冰糖IO"
+    }
+  },
+  "内德维德": {
+    "赫卡Tia": {
+      "conn": true,
+      "target": "内德维德"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "内德维德"
+    },
+    "三千宫魔王Miya": {
+      "conn": true,
+      "target": "内德维德"
+    },
+    "里奈Rina": {
+      "conn": true,
+      "target": "内德维德"
+    },
+    "阿梓从小就很可爱": {
+      "conn": true,
+      "target": "阿梓从小就很可爱"
+    }
+  },
+  "溯月Sotsuki": {
+    "阿萨Aza": {
+      "conn": true,
+      "target": "阿萨Aza"
+    },
+    "塔克Tako": {
+      "conn": true,
+      "target": "塔克Tako"
+    },
+    "果汁erR": {
+      "conn": true,
+      "target": "果汁erR"
+    },
+    "凛-阿格里亚斯": {
+      "conn": true,
+      "target": "凛-阿格里亚斯"
+    },
+    "Overidea_China": {
+      "conn": true,
+      "target": "Overidea_China"
+    }
+  },
+  "火羽ひのめ": {
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "火羽ひのめ"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "火羽ひのめ"
+    }
+  },
+  "-Yu酱-": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "-Yu酱-"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "-Yu酱-"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "-Yu酱-"
+    },
+    "蜜汁工坊": {
+      "conn": true,
+      "target": "-Yu酱-"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    }
+  },
+  "画外灯official": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    }
+  },
+  "姬熊结璃Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "姬熊结璃Official"
+    },
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "鹿乃ちゃん"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    }
+  },
+  "冬雪沫沫": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "冬雪沫沫"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "冬雪沫沫"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "冬雪沫沫"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    }
+  },
+  "中单光一": {
+    "阿萨Aza": {
+      "conn": true,
+      "target": "阿萨Aza"
+    },
+    "蕾米Remi": {
+      "conn": true,
+      "target": "中单光一"
+    },
+    "七海Nana7mi": {
+      "conn": true,
+      "target": "七海Nana7mi"
+    },
+    "勺Shaun": {
+      "conn": true,
+      "target": "中单光一"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    }
+  },
+  "小铃久绘Official": {
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    },
+    "夏川玥玥Official": {
+      "conn": true,
+      "target": "夏川玥玥Official"
+    },
+    "冰糖IO": {
+      "conn": true,
+      "target": "冰糖IO"
+    }
+  },
+  "爱宫Milk_Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "爱宫Milk_Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "爱宫Milk_Official"
+    },
+    "犬山玉姬Official": {
+      "conn": true,
+      "target": "犬山玉姬Official"
+    }
+  },
+  "罗菈Rola": {
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "永雏塔菲": {
+      "conn": true,
+      "target": "永雏塔菲"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "奈姬niki": {
+      "conn": true,
+      "target": "奈姬niki"
+    }
+  },
+  "奈奈莉娅Channel": {
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "雪狐桑": {
+      "conn": true,
+      "target": "雪狐桑"
+    },
+    "蕾尔娜Leona": {
+      "conn": true,
+      "target": "蕾尔娜Leona"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    }
+  },
+  "艾露露Ailurus": {
+    "小希小桃Channel": {
+      "conn": true,
+      "target": "小希小桃Channel"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "兰音Reine": {
+      "conn": true,
+      "target": "艾露露Ailurus"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    }
+  },
+  "丝茉茉i": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "C酱です": {
+      "conn": true,
+      "target": "C酱です"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "冰糖IO": {
+      "conn": true,
+      "target": "冰糖IO"
+    }
+  },
+  "申䒕雅_小雅Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "申䒕雅_小雅Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "申䒕雅_小雅Official"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    }
+  },
+  "天宫心Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "天宫心Official"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "天宫心Official"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "天宫心Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "天宫心Official"
+    }
+  },
+  "贝尔蒙德Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "贝尔蒙德Official"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "贝尔蒙德Official"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "贝尔蒙德Official"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "贝尔蒙德Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    }
+  },
+  "香取绮罗_kira": {
+    "恋乃夜舞_propro": {
+      "conn": true,
+      "target": "恋乃夜舞_propro"
+    },
+    "扶桑大红花丶": {
+      "conn": true,
+      "target": "扶桑大红花丶"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "切茜娅CheIsea": {
+      "conn": true,
+      "target": "香取绮罗_kira"
+    },
+    "永雏塔菲": {
+      "conn": true,
+      "target": "永雏塔菲"
+    }
+  },
+  "艾尔莎_Channel": {
+    "花花Haya": {
+      "conn": true,
+      "target": "花花Haya"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "冰糖IO": {
+      "conn": true,
+      "target": "冰糖IO"
+    }
+  },
+  "南宫灯official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "南宫灯official"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "南宫灯official"
+    }
+  },
+  "宇佐紀ノノ_usagi": {
+    "多多poi丶": {
+      "conn": true,
+      "target": "多多poi丶"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "永雏塔菲": {
+      "conn": true,
+      "target": "永雏塔菲"
+    },
+    "扶桑大红花丶": {
+      "conn": true,
+      "target": "扶桑大红花丶"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    }
+  },
+  "社筑Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "社筑Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "社筑Official"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "社筑Official"
+    }
+  },
+  "龙西Rinya": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "龙西Rinya"
+    },
+    "蜜汁工坊": {
+      "conn": true,
+      "target": "龙西Rinya"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "龙西Rinya"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "龙西Rinya"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "龙西Rinya"
+    }
+  },
+  "永恒娘Official": {
+    "古堡龙姬": {
+      "conn": true,
+      "target": "永恒娘Official"
+    },
+    "dodo_Official": {
+      "conn": true,
+      "target": "dodo_Official"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "永雏塔菲": {
+      "conn": true,
+      "target": "永雏塔菲"
+    }
+  },
+  "可儿！": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "可儿！"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    }
+  },
+  "しらたまOfficial": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "しらたまOfficial"
+    },
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "鹿乃ちゃん"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "しらたまOfficial"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "しらたまOfficial"
+    }
+  },
+  "永远永远酱w": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "永远永远酱w"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "永远永远酱w"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "永远永远酱w"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "永远永远酱w"
+    }
+  },
+  "无前Namae": {
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    }
+  },
+  "绫濑光Official": {
+    "花花Haya": {
+      "conn": true,
+      "target": "花花Haya"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "月隐空夜": {
+      "conn": true,
+      "target": "月隐空夜"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "多多poi丶"
+    }
+  },
+  "羽澄照乌愈Official": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "多多poi丶"
+    },
+    "恋乃夜舞_propro": {
+      "conn": true,
+      "target": "恋乃夜舞_propro"
+    },
+    "Overidea_China": {
+      "conn": true,
+      "target": "Overidea_China"
+    }
+  },
+  "铃鹿诗子Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "铃鹿诗子Official"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "铃鹿诗子Official"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "铃鹿诗子Official"
+    }
+  },
+  "北柚香Yuka": {
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    }
+  },
+  "雨宫水希Channel": {
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "冰糖IO": {
+      "conn": true,
+      "target": "冰糖IO"
+    },
+    "扶桑大红花丶": {
+      "conn": true,
+      "target": "扶桑大红花丶"
+    },
+    "月隐空夜": {
+      "conn": true,
+      "target": "月隐空夜"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    }
+  },
+  "库拉里罗滋-官方WACTOR": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "库拉里罗滋-官方WACTOR"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "库拉里罗滋-官方WACTOR"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "库拉里罗滋-官方WACTOR"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    }
+  },
+  "诺莺Nox": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "七海Nana7mi": {
+      "conn": true,
+      "target": "七海Nana7mi"
+    },
+    "小可学妹": {
+      "conn": true,
+      "target": "小可学妹"
+    },
+    "陆鳐LuLu": {
+      "conn": true,
+      "target": "陆鳐LuLu"
+    }
+  },
+  "满月Channel": {
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "满月Channel"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "满月Channel"
+    },
+    "蜜汁工坊": {
+      "conn": true,
+      "target": "满月Channel"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "满月Channel"
+    },
+    "南宫灯official": {
+      "conn": true,
+      "target": "满月Channel"
+    }
+  },
+  "幽灵子辰Channel": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "幽灵子辰Channel"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "幽灵子辰Channel"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "幽灵子辰Channel"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "小希小桃Channel": {
+      "conn": true,
+      "target": "小希小桃Channel"
+    }
+  },
+  "如月こより_Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "如月こより_Official"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "如月こより_Official"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "如月こより_Official"
+    }
+  },
+  "love-channel": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "love-channel"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "AIChannel官方": {
+      "conn": true,
+      "target": "AIChannel官方"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    }
+  },
+  "白雪巴_Official": {
+    "白雪巴的夜王国": {
+      "conn": true,
+      "target": "白雪巴_Official"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "星宮汐Official": {
+      "conn": true,
+      "target": "星宮汐Official"
+    },
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "神楽七奈Official"
+    }
+  },
+  "雪虎Black": {
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "阿萨Aza": {
+      "conn": true,
+      "target": "阿萨Aza"
+    },
+    "蕾尔娜Leona": {
+      "conn": true,
+      "target": "蕾尔娜Leona"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "Overidea_China": {
+      "conn": true,
+      "target": "Overidea_China"
+    }
+  },
+  "果汁erR": {
+    "阿萨Aza": {
+      "conn": true,
+      "target": "阿萨Aza"
+    },
+    "溯月Sotsuki": {
+      "conn": true,
+      "target": "果汁erR"
+    },
+    "塔克Tako": {
+      "conn": true,
+      "target": "塔克Tako"
+    },
+    "凛-阿格里亚斯": {
+      "conn": true,
+      "target": "果汁erR"
+    },
+    "Overidea_China": {
+      "conn": true,
+      "target": "Overidea_China"
+    }
+  },
+  "神狐かな_Official": {
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "鹿乃ちゃん"
+    },
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "神狐かな_Official"
+    },
+    "一块电鹿板": {
+      "conn": true,
+      "target": "一块电鹿板"
+    }
+  },
+  "飞鸟尤卡里Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "飞鸟尤卡里Official"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "飞鸟尤卡里Official"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "飞鸟尤卡里Official"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "飞鸟尤卡里Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    }
+  },
+  "紫桃爱音Official": {
+    "花园Serena": {
+      "conn": true,
+      "target": "花园Serena"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "绯赤艾莉欧Official": {
+      "conn": true,
+      "target": "绯赤艾莉欧Official"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "乙女音Official": {
+      "conn": true,
+      "target": "乙女音Official"
+    }
+  },
+  "Seikyuu-VA": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "Seikyuu-VA"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "一块电鹿板": {
+      "conn": true,
+      "target": "一块电鹿板"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    }
+  },
+  "露珀塔_Ruperta": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "露珀塔_Ruperta"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "露珀塔_Ruperta"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "露珀塔_Ruperta"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    }
+  },
+  "木子喵neko": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "木子喵neko"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "木子喵neko"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "木子喵neko"
+    },
+    "郡道美玲的养豚厂": {
+      "conn": true,
+      "target": "木子喵neko"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "木子喵neko"
+    }
+  },
+  "德比鲁Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "德比鲁Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "德比鲁Official"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "德比鲁Official"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "德比鲁Official"
+    }
+  },
+  "日月咪玉-官方": {
+    "花丸晴琉Official": {
+      "conn": true,
+      "target": "花丸晴琉Official"
+    },
+    "神楽Mea_Official": {
+      "conn": true,
+      "target": "神楽Mea_Official"
+    },
+    "恋乃夜舞_propro": {
+      "conn": true,
+      "target": "恋乃夜舞_propro"
+    },
+    "花园Serena": {
+      "conn": true,
+      "target": "花园Serena"
+    },
+    "星奈铃-官方WACTOR": {
+      "conn": true,
+      "target": "星奈铃-官方WACTOR"
+    }
+  },
+  "悠亚Yua": {
+    "七海Nana7mi": {
+      "conn": true,
+      "target": "七海Nana7mi"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "蕾米Remi": {
+      "conn": true,
+      "target": "悠亚Yua"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    }
+  },
+  "江惠惠Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "江惠惠Official"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "江惠惠Official"
+    },
+    "蜜汁工坊": {
+      "conn": true,
+      "target": "江惠惠Official"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "江惠惠Official"
+    },
+    "@黎之恒": {
+      "conn": true,
+      "target": "江惠惠Official"
+    }
+  },
+  "爱摸鱼的Moy": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "爱摸鱼的Moy"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "爱摸鱼的Moy"
+    },
+    "一块电鹿板": {
+      "conn": true,
+      "target": "一块电鹿板"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "爱摸鱼的Moy"
+    },
+    "坏宝Huaib": {
+      "conn": true,
+      "target": "爱摸鱼的Moy"
+    }
+  },
+  "五月织姬ctsu": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "多多poi丶"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "早稻叽": {
+      "conn": true,
+      "target": "早稻叽"
+    }
+  },
+  "犬卷日鞠-官方WACTOR": {
+    "星奈铃-官方WACTOR": {
+      "conn": true,
+      "target": "星奈铃-官方WACTOR"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "花园Serena": {
+      "conn": true,
+      "target": "花园Serena"
+    }
+  },
+  "福山Master": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "福山Master"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "福山Master"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "福山Master"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "福山Master"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "福山Master"
+    }
+  },
+  "碧居結衣": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "碧居結衣"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "碧居結衣"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "碧居結衣"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "鹿乃ちゃん"
+    }
+  },
+  "御剣莉亚-官方": {
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "御剣莉亚-官方"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "御剣莉亚-官方"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "蜜汁工坊": {
+      "conn": true,
+      "target": "御剣莉亚-官方"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "御剣莉亚-官方"
+    }
+  },
+  "兰若_Ruo": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "兰若_Ruo"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "兰若_Ruo"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    }
+  },
+  "dsailab二号机": {
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "多多poi丶"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    }
+  },
+  "莉姆丝OvO": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "莉姆丝OvO"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "莉姆丝OvO"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "蜜汁工坊": {
+      "conn": true,
+      "target": "莉姆丝OvO"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "莉姆丝OvO"
+    }
+  },
+  "AIofficial": {
+    "泠鸢yousa": {
+      "conn": false,
+      "target": "AIofficial"
+    },
+    "hanser": {
+      "conn": false,
+      "target": "AIofficial"
+    },
+    "祖娅纳惜": {
+      "conn": false,
+      "target": "AIofficial"
+    },
+    "多多poi丶": {
+      "conn": false,
+      "target": "AIofficial"
+    },
+    "神楽七奈Official": {
+      "conn": false,
+      "target": "AIofficial"
+    }
+  },
+  "S1娘Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "S1娘Official"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "S1娘Official"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "S1娘Official"
+    }
+  },
+  "NoWorld_思绪イデア": {
+    "恋乃夜舞_propro": {
+      "conn": true,
+      "target": "恋乃夜舞_propro"
+    },
+    "花园Serena": {
+      "conn": true,
+      "target": "花园Serena"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "物述有栖Official": {
+      "conn": true,
+      "target": "物述有栖Official"
+    },
+    "神楽Mea_Official": {
+      "conn": true,
+      "target": "神楽Mea_Official"
+    }
+  },
+  "黑桐亚里亚Official": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "花丸晴琉Official": {
+      "conn": true,
+      "target": "花丸晴琉Official"
+    },
+    "神楽Mea_Official": {
+      "conn": true,
+      "target": "神楽Mea_Official"
+    },
+    "恋乃夜舞_propro": {
+      "conn": true,
+      "target": "恋乃夜舞_propro"
+    },
+    "花园Serena": {
+      "conn": true,
+      "target": "花园Serena"
+    }
+  },
+  "坏宝Huaib": {
+    "一块电鹿板": {
+      "conn": true,
+      "target": "一块电鹿板"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "OscarAnd奥斯卡"
+    },
+    "贝拉kira": {
+      "conn": true,
+      "target": "贝拉kira"
+    }
+  },
+  "玛莎儿今天摸了吗": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "玛莎儿今天摸了吗"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "玛莎儿今天摸了吗"
+    },
+    "@黎之恒": {
+      "conn": true,
+      "target": "玛莎儿今天摸了吗"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "玛莎儿今天摸了吗"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "玛莎儿今天摸了吗"
+    }
+  },
+  "綿世たぬOfficial": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "綿世たぬOfficial"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "綿世たぬOfficial"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "綿世たぬOfficial"
+    }
+  },
+  "眠眠official": {
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "眠眠official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "蜜汁工坊": {
+      "conn": true,
+      "target": "眠眠official"
+    }
+  },
+  "吉诺儿kino": {
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "唐九夏还想再躺一下": {
+      "conn": true,
+      "target": "唐九夏还想再躺一下"
+    },
+    "小希小桃Channel": {
+      "conn": true,
+      "target": "小希小桃Channel"
+    },
+    "扇宝": {
+      "conn": true,
+      "target": "扇宝"
+    }
+  },
+  "臧贺Lunmta": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "C酱です": {
+      "conn": true,
+      "target": "C酱です"
+    },
+    "shourei小N": {
+      "conn": true,
+      "target": "shourei小N"
+    },
+    "蕾尔娜Leona": {
+      "conn": true,
+      "target": "蕾尔娜Leona"
+    },
+    "阿梓从小就很可爱": {
+      "conn": true,
+      "target": "阿梓从小就很可爱"
+    }
+  },
+  "诗小雅Official": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "疾風醬": {
+      "conn": true,
+      "target": "诗小雅Official"
+    }
+  },
+  "羽咲Rabi_Official": {
+    "星宮汐Official": {
+      "conn": true,
+      "target": "星宮汐Official"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "星奈铃-官方WACTOR": {
+      "conn": true,
+      "target": "星奈铃-官方WACTOR"
+    }
+  },
+  "童田明治Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "童田明治Official"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "童田明治Official"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "童田明治Official"
+    }
+  },
+  "龙包包": {
+    "小狼XF": {
+      "conn": true,
+      "target": "龙包包"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "龙包包"
+    },
+    "烤鱼子Official": {
+      "conn": true,
+      "target": "烤鱼子Official"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    }
+  },
+  "PlanyaChannel": {
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "PlanyaChannel"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    }
+  },
+  "井野川歌铃": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "扶桑大红花丶": {
+      "conn": true,
+      "target": "扶桑大红花丶"
+    },
+    "陆鳐LuLu": {
+      "conn": true,
+      "target": "陆鳐LuLu"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    }
+  },
+  "加贺美隼人Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "加贺美隼人Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "加贺美隼人Official"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    }
+  },
+  "银银子deisu": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "银银子deisu"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "银银子deisu"
+    },
+    "鳥取鹿子Official": {
+      "conn": true,
+      "target": "银银子deisu"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "银银子deisu"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "银银子deisu"
+    }
+  },
+  "相羽初叶_Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "相羽初叶_Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "相羽初叶_Official"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "相羽初叶_Official"
+    }
+  },
+  "小毛拔了个火罐": {
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "小毛拔了个火罐"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "小毛拔了个火罐"
+    },
+    "泰蕾莎Channel": {
+      "conn": true,
+      "target": "泰蕾莎Channel"
+    },
+    "早稻叽": {
+      "conn": true,
+      "target": "早稻叽"
+    }
+  },
+  "派大露が": {
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "派大露が"
+    },
+    "一块电鹿板": {
+      "conn": true,
+      "target": "一块电鹿板"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "田汐汐_Official": {
+      "conn": true,
+      "target": "田汐汐_Official"
+    }
+  },
+  "Kirikosama_": {
+    "C酱です": {
+      "conn": true,
+      "target": "C酱です"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    }
+  },
+  "烤鱼子Official": {
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "龙包包": {
+      "conn": true,
+      "target": "烤鱼子Official"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "烤鱼子Official"
+    },
+    "C酱です": {
+      "conn": true,
+      "target": "C酱です"
+    }
+  },
+  "姉崎雪美Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "姉崎雪美Official"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "姉崎雪美Official"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "姉崎雪美Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    }
+  },
+  "说说Crystal": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "陆鳐LuLu": {
+      "conn": true,
+      "target": "陆鳐LuLu"
+    },
+    "小可学妹": {
+      "conn": true,
+      "target": "小可学妹"
+    }
+  },
+  "瑠璃川こはくofficial": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "瑠璃川こはくofficial"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "瑠璃川こはくofficial"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "瑠璃川こはくofficial"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "瑠璃川こはくofficial"
+    },
+    "蜜汁工坊": {
+      "conn": true,
+      "target": "瑠璃川こはくofficial"
+    }
+  },
+  "唐九夏还想再躺一下": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "吉诺儿kino": {
+      "conn": true,
+      "target": "唐九夏还想再躺一下"
+    },
+    "陆鳐LuLu": {
+      "conn": true,
+      "target": "陆鳐LuLu"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "小希小桃Channel": {
+      "conn": true,
+      "target": "小希小桃Channel"
+    }
+  },
+  "蝶太": {
+    "一块电鹿板": {
+      "conn": true,
+      "target": "一块电鹿板"
+    },
+    "鹿野灸": {
+      "conn": true,
+      "target": "鹿野灸"
+    },
+    "团小哈": {
+      "conn": true,
+      "target": "团小哈"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "阿萨Aza": {
+      "conn": true,
+      "target": "阿萨Aza"
+    }
+  },
+  "林莉奈RinaHayashi": {
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "陆鳐LuLu": {
+      "conn": true,
+      "target": "陆鳐LuLu"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    },
+    "早稻叽": {
+      "conn": true,
+      "target": "早稻叽"
+    }
+  },
+  "季毅Jiyi": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "花花Haya": {
+      "conn": true,
+      "target": "花花Haya"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "季毅Jiyi"
+    },
+    "冰糖IO": {
+      "conn": true,
+      "target": "冰糖IO"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "季毅Jiyi"
+    }
+  },
+  "火花工作室": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "火花工作室"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "一块电鹿板": {
+      "conn": true,
+      "target": "一块电鹿板"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "火花工作室"
+    }
+  },
+  "沙月ちゃん": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "扶桑大红花丶": {
+      "conn": true,
+      "target": "扶桑大红花丶"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "多多poi丶"
+    }
+  },
+  "卖火柴的可可亚": {
+    "一支橘猫": {
+      "conn": true,
+      "target": "卖火柴的可可亚"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "C酱です": {
+      "conn": true,
+      "target": "C酱です"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "卖火柴的可可亚"
+    }
+  },
+  "三千宫魔王Miya": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "三千宫魔王Miya"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "三千宫魔王Miya"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "三千宫魔王Miya"
+    },
+    "kinoko杂菌": {
+      "conn": true,
+      "target": "三千宫魔王Miya"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    }
+  },
+  "一点荧惑": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "一点荧惑"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "一点荧惑"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "一点荧惑"
+    },
+    "@黎之恒": {
+      "conn": true,
+      "target": "一点荧惑"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "一点荧惑"
+    }
+  },
+  "小司无常": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "多多poi丶"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    },
+    "冰糖IO": {
+      "conn": true,
+      "target": "冰糖IO"
+    }
+  },
+  "粉黛乱子Capillaris": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "粉黛乱子Capillaris"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "粉黛乱子Capillaris"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "粉黛乱子Capillaris"
+    },
+    "kinoko杂菌": {
+      "conn": true,
+      "target": "粉黛乱子Capillaris"
+    },
+    "郡道美玲的养豚厂": {
+      "conn": true,
+      "target": "粉黛乱子Capillaris"
+    }
+  },
+  "茉莉奶芙Molly": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "茉莉奶芙Molly"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "茉莉奶芙Molly"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "茉莉奶芙Molly"
+    },
+    "郡道美玲的养豚厂": {
+      "conn": true,
+      "target": "茉莉奶芙Molly"
+    },
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "鹿乃ちゃん"
+    }
+  },
+  "惑姬Waku": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "阿萨Aza": {
+      "conn": true,
+      "target": "阿萨Aza"
+    },
+    "勺Shaun": {
+      "conn": true,
+      "target": "勺Shaun"
+    }
+  },
+  "鸢尾牙牙": {
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "蕾尔娜Leona": {
+      "conn": true,
+      "target": "蕾尔娜Leona"
+    }
+  },
+  "AyamyあやみOfficial": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "AyamyあやみOfficial"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "AyamyあやみOfficial"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    }
+  },
+  "Laine_official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "Laine_official"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "Laine_official"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    }
+  },
+  "竹花诺特Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "竹花诺特Official"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "竹花诺特Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "竹花诺特Official"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "竹花诺特Official"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "竹花诺特Official"
+    }
+  },
+  "雪橙姬": {
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "雪橙姬"
+    },
+    "一块电鹿板": {
+      "conn": true,
+      "target": "一块电鹿板"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "多多poi丶"
+    }
+  },
+  "笔笔_BiBiko": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "笔笔_BiBiko"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "笔笔_BiBiko"
+    },
+    "泰蕾莎Channel": {
+      "conn": true,
+      "target": "泰蕾莎Channel"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "笔笔_BiBiko"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    }
+  },
+  "星-冰河": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "星-冰河"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "星-冰河"
+    },
+    "一块电鹿板": {
+      "conn": true,
+      "target": "一块电鹿板"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    }
+  },
+  "纱世_sayo": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "纱世_sayo"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "纱世_sayo"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "纱世_sayo"
+    },
+    "蜜汁工坊": {
+      "conn": true,
+      "target": "纱世_sayo"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "纱世_sayo"
+    }
+  },
+  "白雪巴的夜王国": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "白雪巴的夜王国"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "白雪巴的夜王国"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "白雪巴的夜王国"
+    }
+  },
+  "小禾mohu": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "小禾mohu"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "小禾mohu"
+    },
+    "蜜汁工坊": {
+      "conn": true,
+      "target": "小禾mohu"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    }
+  },
+  "骨魅むくろOfficial": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "骨魅むくろOfficial"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "骨魅むくろOfficial"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "骨魅むくろOfficial"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    }
+  },
+  "小千村柚柚": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "小千村柚柚"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "小千村柚柚"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "小千村柚柚"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "小千村柚柚"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "小千村柚柚"
+    }
+  },
+  "Alec艾里": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "Alec艾里"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "Alec艾里"
+    },
+    "郡道美玲的养豚厂": {
+      "conn": true,
+      "target": "Alec艾里"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "Alec艾里"
+    },
+    "赤星组Channel": {
+      "conn": true,
+      "target": "Alec艾里"
+    }
+  },
+  "清良Kiyora": {
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "清良Kiyora"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "清良Kiyora"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "清良Kiyora"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "清良Kiyora"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    }
+  },
+  "Tadasuto": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "Tadasuto"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "Tadasuto"
+    },
+    "一块电鹿板": {
+      "conn": true,
+      "target": "一块电鹿板"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "郡道美玲的养豚厂": {
+      "conn": true,
+      "target": "Tadasuto"
+    }
+  },
+  "伊莎贝拉Official": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "伊莎贝拉Official"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "伊莎贝拉Official"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    }
+  },
+  "沙夜_Saya": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "沙夜_Saya"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "沙夜_Saya"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "沙夜_Saya"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "沙夜_Saya"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "沙夜_Saya"
+    }
+  },
+  "金克茜Jinxy": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "金克茜Jinxy"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "金克茜Jinxy"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "金克茜Jinxy"
+    }
+  },
+  "花玲Karin": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "早稻叽": {
+      "conn": true,
+      "target": "早稻叽"
+    }
+  },
+  "铃木胜Official": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "Overidea_China": {
+      "conn": true,
+      "target": "Overidea_China"
+    },
+    "物述有栖Official": {
+      "conn": true,
+      "target": "物述有栖Official"
+    },
+    "花园Serena": {
+      "conn": true,
+      "target": "花园Serena"
+    },
+    "神楽Mea_Official": {
+      "conn": true,
+      "target": "神楽Mea_Official"
+    }
+  },
+  "伊月猫凛": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "伊月猫凛"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "伊月猫凛"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "伊月猫凛"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "伊月猫凛"
+    },
+    "@黎之恒": {
+      "conn": true,
+      "target": "伊月猫凛"
+    }
+  },
+  "晴奈子_Senako": {
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "陆鳐LuLu": {
+      "conn": true,
+      "target": "陆鳐LuLu"
+    }
+  },
+  "立花结那official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "立花结那official"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "立花结那official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "郡道美玲的养豚厂": {
+      "conn": true,
+      "target": "立花结那official"
+    }
+  },
+  "尼奥喵Neil_Channel": {
+    "泰蕾莎Channel": {
+      "conn": true,
+      "target": "泰蕾莎Channel"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "C酱です": {
+      "conn": true,
+      "target": "C酱です"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    }
+  },
+  "纸木铗Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "纸木铗Official"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "纸木铗Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "鹿乃ちゃん"
+    }
+  },
+  "尤狸Yuriri": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "尤狸Yuriri"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "尤狸Yuriri"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "尤狸Yuriri"
+    },
+    "@黎之恒": {
+      "conn": true,
+      "target": "尤狸Yuriri"
+    }
+  },
+  "辻蓝佳音瑠_channel": {
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "鹿乃ちゃん"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "神楽七奈Official"
+    },
+    "星宮汐Official": {
+      "conn": true,
+      "target": "星宮汐Official"
+    }
+  },
+  "黎歌Neeko_channel": {
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "雪狐桑": {
+      "conn": true,
+      "target": "雪狐桑"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "陆鳐LuLu": {
+      "conn": true,
+      "target": "陆鳐LuLu"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    }
+  },
+  "珞璃Official": {
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "多多poi丶"
+    },
+    "月隐空夜": {
+      "conn": true,
+      "target": "月隐空夜"
+    },
+    "花花Haya": {
+      "conn": true,
+      "target": "花花Haya"
+    },
+    "冰糖IO": {
+      "conn": true,
+      "target": "冰糖IO"
+    }
+  },
+  "初焰Hatsuhomura": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "初焰Hatsuhomura"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "初焰Hatsuhomura"
+    },
+    "一块电鹿板": {
+      "conn": true,
+      "target": "一块电鹿板"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "初焰Hatsuhomura"
+    },
+    "kinoko杂菌": {
+      "conn": true,
+      "target": "初焰Hatsuhomura"
+    }
+  },
+  "漪月灵-Aether-": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "漪月灵-Aether-"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "漪月灵-Aether-"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "漪月灵-Aether-"
+    }
+  },
+  "月兮Channel": {
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "月兮Channel"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    }
+  },
+  "度人Tabibito": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "度人Tabibito"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "度人Tabibito"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "度人Tabibito"
+    },
+    "阿萨Aza": {
+      "conn": true,
+      "target": "阿萨Aza"
+    },
+    "郡道美玲的养豚厂": {
+      "conn": true,
+      "target": "度人Tabibito"
+    }
+  },
+  "千幽Chiyuu": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    },
+    "七海Nana7mi": {
+      "conn": true,
+      "target": "七海Nana7mi"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    }
+  },
+  "咕咕挞Official": {
+    "一块电鹿板": {
+      "conn": true,
+      "target": "一块电鹿板"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "OscarAnd奥斯卡"
+    },
+    "@黎之恒": {
+      "conn": true,
+      "target": "@黎之恒"
+    },
+    "疾風醬": {
+      "conn": true,
+      "target": "疾風醬"
+    }
+  },
+  "極彩夜うい_official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "極彩夜うい_official"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "極彩夜うい_official"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    }
+  },
+  "佐娜Sanya": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "佐娜Sanya"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "佐娜Sanya"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "佐娜Sanya"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "佐娜Sanya"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "佐娜Sanya"
+    }
+  },
+  "咲间妮娜Official": {
+    "花花Haya": {
+      "conn": true,
+      "target": "花花Haya"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "月隐空夜": {
+      "conn": true,
+      "target": "月隐空夜"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    }
+  },
+  "不能吃的ok酱": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "不能吃的ok酱"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "不能吃的ok酱"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "不能吃的ok酱"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "不能吃的ok酱"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "不能吃的ok酱"
+    }
+  },
+  "火西肆": {
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "陆鳐LuLu": {
+      "conn": true,
+      "target": "陆鳐LuLu"
+    },
+    "七海Nana7mi": {
+      "conn": true,
+      "target": "七海Nana7mi"
+    },
+    "扶桑大红花丶": {
+      "conn": true,
+      "target": "扶桑大红花丶"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    }
+  },
+  "月兔华-WACTOR官方": {
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "月兔华-WACTOR官方"
+    },
+    "鹿乃ちゃん": {
+      "conn": true,
+      "target": "鹿乃ちゃん"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    }
+  },
+  "满天星Hoshi": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "陆鳐LuLu": {
+      "conn": true,
+      "target": "陆鳐LuLu"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    }
+  },
+  "许亦真_REAL": {
+    "阿萨Aza": {
+      "conn": true,
+      "target": "阿萨Aza"
+    },
+    "Overidea_China": {
+      "conn": true,
+      "target": "Overidea_China"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "塔克Tako": {
+      "conn": true,
+      "target": "塔克Tako"
+    },
+    "罗伊_Roi": {
+      "conn": true,
+      "target": "罗伊_Roi"
+    }
+  },
+  "多拉Official": {
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "多拉Official"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "多拉Official"
+    },
+    "帕里_Paryi": {
+      "conn": true,
+      "target": "帕里_Paryi"
+    }
+  },
+  "戈洛Glow": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "戈洛Glow"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "戈洛Glow"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "戈洛Glow"
+    },
+    "kinoko杂菌": {
+      "conn": true,
+      "target": "戈洛Glow"
+    },
+    "郡道美玲的养豚厂": {
+      "conn": true,
+      "target": "戈洛Glow"
+    }
+  },
+  "真绯瑠mahiru": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "七海Nana7mi": {
+      "conn": true,
+      "target": "七海Nana7mi"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "勺Shaun": {
+      "conn": true,
+      "target": "勺Shaun"
+    },
+    "蕾米Remi": {
+      "conn": true,
+      "target": "真绯瑠mahiru"
+    }
+  },
+  "雪桃子Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "雪桃子Official"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "雪桃子Official"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "雪桃子Official"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "雪桃子Official"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "雪桃子Official"
+    }
+  },
+  "瑞狩是只喵": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "瑞狩是只喵"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "瑞狩是只喵"
+    },
+    "一块电鹿板": {
+      "conn": true,
+      "target": "一块电鹿板"
+    },
+    "郡道美玲的养豚厂": {
+      "conn": true,
+      "target": "瑞狩是只喵"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "瑞狩是只喵"
+    }
+  },
+  "耳可Milo": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "耳可Milo"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "耳可Milo"
+    },
+    "郡道美玲的养豚厂": {
+      "conn": true,
+      "target": "耳可Milo"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "耳可Milo"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "耳可Milo"
+    }
+  },
+  "EricaZehnt_埃莉卡": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "EricaZehnt_埃莉卡"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "EricaZehnt_埃莉卡"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "EricaZehnt_埃莉卡"
+    }
+  },
+  "猫猫Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "猫猫Official"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "猫猫Official"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "猫猫Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "猫猫Official"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "猫猫Official"
+    }
+  },
+  "污喵污喵哒": {
+    "AIChannel官方": {
+      "conn": true,
+      "target": "AIChannel官方"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "污喵污喵哒"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    }
+  },
+  "天宫心的新人搬运": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "天宫心的新人搬运"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "天宫心的新人搬运"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "天宫心的新人搬运"
+    }
+  },
+  "言知_Dove": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "言知_Dove"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "言知_Dove"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    }
+  },
+  "黛灰Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "黛灰Official"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "黛灰Official"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    }
+  },
+  "星野琳奈": {
+    "高原守Channel": {
+      "conn": true,
+      "target": "星野琳奈"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "星野琳奈"
+    },
+    "kinoko杂菌": {
+      "conn": true,
+      "target": "星野琳奈"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "可愛的島風": {
+      "conn": true,
+      "target": "星野琳奈"
+    }
+  },
+  "木暮Piyoko-官方": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "木暮Piyoko-官方"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "木暮Piyoko-官方"
+    }
+  },
+  "花守海露希Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "花守海露希Official"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "花守海露希Official"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "花守海露希Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    }
+  },
+  "梦追翔Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "梦追翔Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "梦追翔Official"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    }
+  },
+  "辛西娅_Cynthiaa": {
+    "陆鳐LuLu": {
+      "conn": true,
+      "target": "陆鳐LuLu"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    }
+  },
+  "nelineli音乐": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "nelineli音乐"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "nelineli音乐"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "nelineli音乐"
+    }
+  },
+  "白音雪-official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "白音雪-official"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "白音雪-official"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "白音雪-official"
+    }
+  },
+  "望月希咏": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "望月希咏"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "望月希咏"
+    },
+    "@黎之恒": {
+      "conn": true,
+      "target": "望月希咏"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "望月希咏"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "望月希咏"
+    }
+  },
+  "西魔幽Yuu": {
+    "阿萨Aza": {
+      "conn": true,
+      "target": "阿萨Aza"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    },
+    "一块电鹿板": {
+      "conn": true,
+      "target": "西魔幽Yuu"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    }
+  },
+  "姬咲柚流Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "姬咲柚流Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "犬山玉姬Official": {
+      "conn": true,
+      "target": "犬山玉姬Official"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "姬咲柚流Official"
+    }
+  },
+  "莉莉安_Official": {
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "永雏塔菲": {
+      "conn": true,
+      "target": "永雏塔菲"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    }
+  },
+  "病院坂Rei": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "病院坂Rei"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "病院坂Rei"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "病院坂Rei"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "病院坂Rei"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "病院坂Rei"
+    }
+  },
+  "咪诺今天也要元气满满": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "咪诺今天也要元气满满"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "咪诺今天也要元气满满"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "咪诺今天也要元气满满"
+    },
+    "@黎之恒": {
+      "conn": true,
+      "target": "咪诺今天也要元气满满"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "咪诺今天也要元气满满"
+    }
+  },
+  "奥克塔维娅Channel": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "奥克塔维娅Channel"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "奥克塔维娅Channel"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "蜜汁工坊": {
+      "conn": true,
+      "target": "奥克塔维娅Channel"
+    }
+  },
+  "柠狐柃": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "柠狐柃"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "柠狐柃"
+    },
+    "郡道美玲的养豚厂": {
+      "conn": true,
+      "target": "柠狐柃"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "柠狐柃"
+    }
+  },
+  "米蕾優channel": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "米蕾優channel"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "米蕾優channel"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "米蕾優channel"
+    }
+  },
+  "白银莉莉Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "白银莉莉Official"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "白银莉莉Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "白银莉莉Official"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    }
+  },
+  "呆呆喵": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "呆呆喵"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "呆呆喵"
+    },
+    "一块电鹿板": {
+      "conn": true,
+      "target": "一块电鹿板"
+    },
+    "郡道美玲的养豚厂": {
+      "conn": true,
+      "target": "呆呆喵"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "呆呆喵"
+    }
+  },
+  "御坂伊里奇_Official": {
+    "一块电鹿板": {
+      "conn": true,
+      "target": "一块电鹿板"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "OscarAnd奥斯卡"
+    },
+    "@黎之恒": {
+      "conn": true,
+      "target": "@黎之恒"
+    }
+  },
+  "紫海由爱Channel": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "星宮汐Official": {
+      "conn": true,
+      "target": "星宮汐Official"
+    },
+    "神楽Mea_Official": {
+      "conn": true,
+      "target": "神楽Mea_Official"
+    },
+    "物述有栖Official": {
+      "conn": true,
+      "target": "物述有栖Official"
+    },
+    "花园Serena": {
+      "conn": true,
+      "target": "花园Serena"
+    }
+  },
+  "信使akane": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "信使akane"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "信使akane"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    }
+  },
+  "魔法少女真理酱": {
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "魔法少女真理酱"
+    },
+    "@黎之恒": {
+      "conn": true,
+      "target": "魔法少女真理酱"
+    },
+    "蜜汁工坊": {
+      "conn": true,
+      "target": "魔法少女真理酱"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    }
+  },
+  "纸代棗-やすゆきOfficial": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "纸代棗-やすゆきOfficial"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "纸代棗-やすゆきOfficial"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    }
+  },
+  "塔尔斯Tails": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "塔尔斯Tails"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "塔尔斯Tails"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "塔尔斯Tails"
+    },
+    "kinoko杂菌": {
+      "conn": true,
+      "target": "塔尔斯Tails"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    }
+  },
+  "星陵Betty": {
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "雪狐桑": {
+      "conn": true,
+      "target": "雪狐桑"
+    },
+    "希月萌奈": {
+      "conn": true,
+      "target": "希月萌奈"
+    },
+    "冰糖IO": {
+      "conn": true,
+      "target": "冰糖IO"
+    }
+  },
+  "空镜KAGAMI": {
+    "一块电鹿板": {
+      "conn": true,
+      "target": "一块电鹿板"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "空镜KAGAMI"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "疾風醬": {
+      "conn": true,
+      "target": "疾風醬"
+    }
+  },
+  "最喜欢派蒙了": {
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "小狼XF": {
+      "conn": true,
+      "target": "最喜欢派蒙了"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "最喜欢派蒙了"
+    }
+  },
+  "猫屋敷梨梨Official": {
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "神楽七奈Official"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "疾風醬": {
+      "conn": true,
+      "target": "猫屋敷梨梨Official"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "猫屋敷梨梨Official"
+    }
+  },
+  "团小哈": {
+    "一块电鹿板": {
+      "conn": true,
+      "target": "团小哈"
+    },
+    "蝶太": {
+      "conn": true,
+      "target": "团小哈"
+    },
+    "鹿野灸": {
+      "conn": true,
+      "target": "鹿野灸"
+    },
+    "可愛的島風": {
+      "conn": true,
+      "target": "团小哈"
+    },
+    "雪虎Black": {
+      "conn": true,
+      "target": "团小哈"
+    }
+  },
+  "卡欧斯_Chaos": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "卡欧斯_Chaos"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "卡欧斯_Chaos"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "卡欧斯_Chaos"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "卡欧斯_Chaos"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "卡欧斯_Chaos"
+    }
+  },
+  "一颗芽Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "一颗芽Official"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "一颗芽Official"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "一颗芽Official"
+    },
+    "@黎之恒": {
+      "conn": true,
+      "target": "一颗芽Official"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "一颗芽Official"
+    }
+  },
+  "空伶cherry": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "空伶cherry"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "空伶cherry"
+    },
+    "郡道美玲的养豚厂": {
+      "conn": true,
+      "target": "空伶cherry"
+    },
+    "Overidea_China": {
+      "conn": true,
+      "target": "Overidea_China"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    }
+  },
+  "嚼着软糖想昵称": {
+    "一块电鹿板": {
+      "conn": true,
+      "target": "一块电鹿板"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "嚼着软糖想昵称"
+    },
+    "小狼XF": {
+      "conn": true,
+      "target": "小狼XF"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "嚼着软糖想昵称"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    }
+  },
+  "AI艾灵": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "AI艾灵"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "AI艾灵"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "AI艾灵"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "AI艾灵"
+    }
+  },
+  "东堂比乃Official": {
+    "花园Serena": {
+      "conn": true,
+      "target": "花园Serena"
+    },
+    "绯赤艾莉欧Official": {
+      "conn": true,
+      "target": "绯赤艾莉欧Official"
+    },
+    "花丸晴琉Official": {
+      "conn": true,
+      "target": "花丸晴琉Official"
+    },
+    "恋乃夜舞_propro": {
+      "conn": true,
+      "target": "恋乃夜舞_propro"
+    },
+    "神楽Mea_Official": {
+      "conn": true,
+      "target": "神楽Mea_Official"
+    }
+  },
+  "阿尔瓦Alvar": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "阿尔瓦Alvar"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "阿尔瓦Alvar"
+    },
+    "郡道美玲的养豚厂": {
+      "conn": true,
+      "target": "阿尔瓦Alvar"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "阿尔瓦Alvar"
+    },
+    "赤星组Channel": {
+      "conn": true,
+      "target": "阿尔瓦Alvar"
+    }
+  },
+  "姬野青": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "姬野青"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "姬野青"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "姬野青"
+    },
+    "@黎之恒": {
+      "conn": true,
+      "target": "姬野青"
+    }
+  },
+  "桃井最中Monaka": {
+    "永雏塔菲": {
+      "conn": true,
+      "target": "永雏塔菲"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "桃井最中Monaka"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "桃井最中Monaka"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "桃井最中Monaka"
+    },
+    "蜜汁工坊": {
+      "conn": true,
+      "target": "桃井最中Monaka"
+    }
+  },
+  "梱枝莉子Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "梱枝莉子Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "梱枝莉子Official"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "梱枝莉子Official"
+    }
+  },
+  "SoulliesOfficial": {
+    "一块电鹿板": {
+      "conn": true,
+      "target": "一块电鹿板"
+    },
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "SoulliesOfficial"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "@黎之恒": {
+      "conn": true,
+      "target": "@黎之恒"
+    }
+  },
+  "库莉姆Cream": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "库莉姆Cream"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "库莉姆Cream"
+    },
+    "小狼XF": {
+      "conn": true,
+      "target": "小狼XF"
+    },
+    "蜜汁工坊": {
+      "conn": true,
+      "target": "库莉姆Cream"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    }
+  },
+  "kinoko杂菌": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "kinoko杂菌"
+    },
+    "一块电鹿板": {
+      "conn": true,
+      "target": "一块电鹿板"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "kinoko杂菌"
+    }
+  },
+  "七个喵Nana": {
+    "小狼XF": {
+      "conn": true,
+      "target": "七个喵Nana"
+    },
+    "一块电鹿板": {
+      "conn": true,
+      "target": "七个喵Nana"
+    },
+    "C酱です": {
+      "conn": true,
+      "target": "C酱です"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "月隐空夜": {
+      "conn": true,
+      "target": "月隐空夜"
+    }
+  },
+  "亚可Ako": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "亚可Ako"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "亚可Ako"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "亚可Ako"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "亚可Ako"
+    },
+    "kinoko杂菌": {
+      "conn": true,
+      "target": "亚可Ako"
+    }
+  },
+  "绮良kira_Official": {
+    "高原守Channel": {
+      "conn": true,
+      "target": "绮良kira_Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "绮良kira_Official"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "绮良kira_Official"
+    },
+    "JohnkoOfficial": {
+      "conn": true,
+      "target": "绮良kira_Official"
+    },
+    "疾風醬": {
+      "conn": true,
+      "target": "绮良kira_Official"
+    }
+  },
+  "喵月nyatsuki": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "喵月nyatsuki"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "喵月nyatsuki"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "喵月nyatsuki"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "喵月nyatsuki"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "喵月nyatsuki"
+    }
+  },
+  "舞元启介Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "舞元启介Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "舞元启介Official"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    }
+  },
+  "咿籽芥末大尾巴狼itsu": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "咿籽芥末大尾巴狼itsu"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "咿籽芥末大尾巴狼itsu"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "咿籽芥末大尾巴狼itsu"
+    },
+    "@黎之恒": {
+      "conn": true,
+      "target": "咿籽芥末大尾巴狼itsu"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    }
+  },
+  "恋诗夜Koxia": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "七海Nana7mi": {
+      "conn": true,
+      "target": "七海Nana7mi"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "蕾米Remi": {
+      "conn": true,
+      "target": "恋诗夜Koxia"
+    },
+    "勺Shaun": {
+      "conn": true,
+      "target": "勺Shaun"
+    }
+  },
+  "这是亦枝YY": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "这是亦枝YY"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "这是亦枝YY"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "这是亦枝YY"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "这是亦枝YY"
+    },
+    "一块电鹿板": {
+      "conn": true,
+      "target": "一块电鹿板"
+    }
+  },
+  "白濑葵_propro": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "白濑葵_propro"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "白濑葵_propro"
+    },
+    "恋乃夜舞_propro": {
+      "conn": true,
+      "target": "恋乃夜舞_propro"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "白濑葵_propro"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "白濑葵_propro"
+    }
+  },
+  "云玉鸾": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "云玉鸾"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "云玉鸾"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    }
+  },
+  "呆梓爱你嗷": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "呆梓爱你嗷"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "呆梓爱你嗷"
+    },
+    "一块电鹿板": {
+      "conn": true,
+      "target": "一块电鹿板"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    }
+  },
+  "OscarAnd奥斯卡": {
+    "一块电鹿板": {
+      "conn": true,
+      "target": "一块电鹿板"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "@黎之恒": {
+      "conn": true,
+      "target": "@黎之恒"
+    },
+    "疾風醬": {
+      "conn": true,
+      "target": "疾風醬"
+    },
+    "可愛的島風": {
+      "conn": true,
+      "target": "可愛的島風"
+    }
+  },
+  "雷凌凌": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "雷凌凌"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "雷凌凌"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "雷凌凌"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    }
+  },
+  "東雲恵Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "東雲恵Official"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "東雲恵Official"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "東雲恵Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "東雲恵Official"
+    },
+    "@黎之恒": {
+      "conn": true,
+      "target": "東雲恵Official"
+    }
+  },
+  "花云凛_propro": {
+    "恋乃夜舞_propro": {
+      "conn": true,
+      "target": "恋乃夜舞_propro"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "JohnkoOfficial": {
+      "conn": true,
+      "target": "花云凛_propro"
+    },
+    "花园Serena": {
+      "conn": true,
+      "target": "花园Serena"
+    }
+  },
+  "田野柴Tanoshiba": {
+    "阿萨Aza": {
+      "conn": true,
+      "target": "阿萨Aza"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "田野柴Tanoshiba"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "田野柴Tanoshiba"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    }
+  },
+  "赤星组Channel": {
+    "一块电鹿板": {
+      "conn": true,
+      "target": "一块电鹿板"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "OscarAnd奥斯卡"
+    },
+    "小狼XF": {
+      "conn": true,
+      "target": "小狼XF"
+    },
+    "@黎之恒": {
+      "conn": true,
+      "target": "@黎之恒"
+    }
+  },
+  "栗子酱RIKO": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "栗子酱RIKO"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "AIChannel中国绊爱": {
+      "conn": true,
+      "target": "AIChannel中国绊爱"
+    },
+    "一块电鹿板": {
+      "conn": true,
+      "target": "一块电鹿板"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    }
+  },
+  "郡道美玲的养豚厂": {
+    "一块电鹿板": {
+      "conn": true,
+      "target": "一块电鹿板"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "OscarAnd奥斯卡"
+    },
+    "@黎之恒": {
+      "conn": true,
+      "target": "@黎之恒"
+    },
+    "疾風醬": {
+      "conn": true,
+      "target": "疾風醬"
+    }
+  },
+  "璃月青空": {
+    "一块电鹿板": {
+      "conn": true,
+      "target": "一块电鹿板"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "OscarAnd奥斯卡"
+    },
+    "@黎之恒": {
+      "conn": true,
+      "target": "@黎之恒"
+    }
+  },
+  "Okome_VTuber官方频道": {
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "Okome_VTuber官方频道"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "Okome_VTuber官方频道"
+    }
+  },
+  "岱川Doris": {
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "蕾尔娜Leona": {
+      "conn": true,
+      "target": "蕾尔娜Leona"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    }
+  },
+  "墨喵星突突母舰Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "墨喵星突突母舰Official"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "墨喵星突突母舰Official"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "墨喵星突突母舰Official"
+    },
+    "坏宝Huaib": {
+      "conn": true,
+      "target": "墨喵星突突母舰Official"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    }
+  },
+  "柊真华Official": {
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "柊真华Official"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "柊真华Official"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "帕里_Paryi": {
+      "conn": true,
+      "target": "柊真华Official"
+    }
+  },
+  "星川铃_Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "星川铃_Official"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "星川铃_Official"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "星川铃_Official"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    }
+  },
+  "贵物Live": {
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "默磷Mayori": {
+      "conn": true,
+      "target": "贵物Live"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "贵物Live"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "贵物Live"
+    },
+    "言知_Dove": {
+      "conn": true,
+      "target": "贵物Live"
+    }
+  },
+  "dsailab": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "dsailab"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "dsailab"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "dsailab"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    }
+  },
+  "九十九_Tsukumo": {
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "九十九_Tsukumo"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    }
+  },
+  "_慕斯Muse": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "_慕斯Muse"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "_慕斯Muse"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "_慕斯Muse"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "_慕斯Muse"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "_慕斯Muse"
+    }
+  },
+  "星乃めあOfficial": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "星乃めあOfficial"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "星乃めあOfficial"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    }
+  },
+  "桃宝Momoko": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "桃宝Momoko"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "桃宝Momoko"
+    },
+    "郡道美玲的养豚厂": {
+      "conn": true,
+      "target": "桃宝Momoko"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "桃宝Momoko"
+    },
+    "赤星组Channel": {
+      "conn": true,
+      "target": "桃宝Momoko"
+    }
+  },
+  "露露娜Ruruna": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "露露娜Ruruna"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "露露娜Ruruna"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "露露娜Ruruna"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "露露娜Ruruna"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "露露娜Ruruna"
+    }
+  },
+  "路理Kuri": {
+    "赫卡Tia": {
+      "conn": true,
+      "target": "路理Kuri"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "路理Kuri"
+    },
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "路理Kuri"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "路理Kuri"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "路理Kuri"
+    }
+  },
+  "量子少年-慕宇": {
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "向晚大魔王": {
+      "conn": true,
+      "target": "向晚大魔王"
+    },
+    "贝拉kira": {
+      "conn": true,
+      "target": "贝拉kira"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "乃琳Queen": {
+      "conn": true,
+      "target": "乃琳Queen"
+    }
+  },
+  "天川花乃official": {
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "天川花乃official"
+    },
+    "帕里_Paryi": {
+      "conn": true,
+      "target": "帕里_Paryi"
+    }
+  },
+  "有加plus": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "有加plus"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "有加plus"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    }
+  },
+  "夕兔_H2": {
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "雪狐桑": {
+      "conn": true,
+      "target": "雪狐桑"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    }
+  },
+  "龙崎Ryuz4k1": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "龙崎Ryuz4k1"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "龙崎Ryuz4k1"
+    },
+    "郡道美玲的养豚厂": {
+      "conn": true,
+      "target": "龙崎Ryuz4k1"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "龙崎Ryuz4k1"
+    }
+  },
+  "立花遥はるか": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "立花遥はるか"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "立花遥はるか"
+    },
+    "早见咲Saki": {
+      "conn": true,
+      "target": "早见咲Saki"
+    }
+  },
+  "洛佩sama": {
+    "鹿野灸": {
+      "conn": true,
+      "target": "鹿野灸"
+    },
+    "默磷Mayori": {
+      "conn": true,
+      "target": "洛佩sama"
+    },
+    "瑞狩是只喵": {
+      "conn": true,
+      "target": "洛佩sama"
+    },
+    "一块电鹿板": {
+      "conn": true,
+      "target": "一块电鹿板"
+    },
+    "可愛的島風": {
+      "conn": true,
+      "target": "洛佩sama"
+    }
+  },
+  "罗兹Blazing": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "珈乐Carol": {
+      "conn": true,
+      "target": "珈乐Carol"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "乃琳Queen": {
+      "conn": true,
+      "target": "乃琳Queen"
+    }
+  },
+  "灰音Haine": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "灰音Haine"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "灰音Haine"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "灰音Haine"
+    }
+  },
+  "蛙吹Keroro": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "JohnkoOfficial": {
+      "conn": true,
+      "target": "蛙吹Keroro"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    },
+    "HiiroVTuber": {
+      "conn": true,
+      "target": "HiiroVTuber"
+    }
+  },
+  "ninnikuu": {
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "扶桑大红花丶": {
+      "conn": true,
+      "target": "扶桑大红花丶"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    }
+  },
+  "蝶蝶狐_Chouko": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "蝶蝶狐_Chouko"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "蝶蝶狐_Chouko"
+    },
+    "蜜汁工坊": {
+      "conn": true,
+      "target": "蝶蝶狐_Chouko"
+    },
+    "@黎之恒": {
+      "conn": true,
+      "target": "蝶蝶狐_Chouko"
+    },
+    "郡道美玲的养豚厂": {
+      "conn": true,
+      "target": "蝶蝶狐_Chouko"
+    }
+  },
+  "夏卜卜": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "白神遥Haruka": {
+      "conn": true,
+      "target": "白神遥Haruka"
+    },
+    "冰糖IO": {
+      "conn": true,
+      "target": "冰糖IO"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    }
+  },
+  "是水良不是奶良_Official": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "是水良不是奶良_Official"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "是水良不是奶良_Official"
+    },
+    "郡道美玲的养豚厂": {
+      "conn": true,
+      "target": "是水良不是奶良_Official"
+    },
+    "V子Official": {
+      "conn": true,
+      "target": "是水良不是奶良_Official"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "是水良不是奶良_Official"
+    }
+  },
+  "咦我的头发呢": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "hanser": {
+      "conn": true,
+      "target": "hanser"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "多多poi丶"
+    },
+    "神楽七奈Official": {
+      "conn": true,
+      "target": "神楽七奈Official"
+    }
+  },
+  "DJGun": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "DJGun"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "DJGun"
+    },
+    "璃月青空": {
+      "conn": true,
+      "target": "DJGun"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "DJGun"
+    }
+  },
+  "蝉堇": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "蝉堇"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "蝉堇"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "蝉堇"
+    },
+    "坏宝Huaib": {
+      "conn": true,
+      "target": "蝉堇"
+    },
+    "郡道美玲的养豚厂": {
+      "conn": true,
+      "target": "蝉堇"
+    }
+  },
+  "万灼": {
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "陆鳐LuLu": {
+      "conn": true,
+      "target": "陆鳐LuLu"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "万灼"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    }
+  },
+  "佳茵是个小富婆": {
+    "泠鸢yousa": {
+      "conn": false,
+      "target": "佳茵是个小富婆"
+    },
+    "hanser": {
+      "conn": false,
+      "target": "佳茵是个小富婆"
+    },
+    "祖娅纳惜": {
+      "conn": false,
+      "target": "佳茵是个小富婆"
+    },
+    "多多poi丶": {
+      "conn": false,
+      "target": "佳茵是个小富婆"
+    },
+    "神楽七奈Official": {
+      "conn": false,
+      "target": "佳茵是个小富婆"
+    }
+  },
+  "虎丸幼一": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "虎丸幼一"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "多多poi丶": {
+      "conn": true,
+      "target": "多多poi丶"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "虎丸幼一"
+    }
+  },
+  "雾深Girimi": {
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "咩栗": {
+      "conn": true,
+      "target": "咩栗"
+    },
+    "祖娅纳惜": {
+      "conn": true,
+      "target": "祖娅纳惜"
+    },
+    "小可学妹": {
+      "conn": true,
+      "target": "小可学妹"
+    },
+    "呜米": {
+      "conn": true,
+      "target": "呜米"
+    }
+  },
+  "Milky_Vtuber": {
+    "V子Official": {
+      "conn": true,
+      "target": "Milky_Vtuber"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "Milky_Vtuber"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "Milky_Vtuber"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "Milky_Vtuber"
+    },
+    "帕里_Paryi": {
+      "conn": true,
+      "target": "Milky_Vtuber"
+    }
+  },
+  "堕天稚悠爱Official": {
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "菜菜子Nanako"
+    },
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "堕天稚悠爱Official"
+    },
+    "赫卡Tia": {
+      "conn": true,
+      "target": "赫卡Tia"
+    },
+    "嘉然今天吃什么": {
+      "conn": true,
+      "target": "嘉然今天吃什么"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "堕天稚悠爱Official"
+    }
+  },
+  "安心愛": {
+    "OscarAnd奥斯卡": {
+      "conn": true,
+      "target": "安心愛"
+    },
+    "咕咕挞Official": {
+      "conn": true,
+      "target": "安心愛"
+    },
+    "高原守Channel": {
+      "conn": true,
+      "target": "安心愛"
+    },
+    "@黎之恒": {
+      "conn": true,
+      "target": "安心愛"
+    },
+    "菜菜子Nanako": {
+      "conn": true,
+      "target": "安心愛"
+    }
+  },
+  "雷岁_Raisai": {
+    "阿萨Aza": {
+      "conn": true,
+      "target": "阿萨Aza"
+    },
+    "七海Nana7mi": {
+      "conn": true,
+      "target": "七海Nana7mi"
+    },
+    "泠鸢yousa": {
+      "conn": true,
+      "target": "泠鸢yousa"
+    },
+    "塔克Tako": {
+      "conn": true,
+      "target": "塔克Tako"
+    },
+    "叶Official": {
+      "conn": true,
+      "target": "叶Official"
+    }
+  }
+}

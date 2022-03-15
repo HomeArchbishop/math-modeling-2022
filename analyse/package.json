@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "express": "^4.17.3",
+    "standard": "^16.0.4"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
