@@ -1,0 +1,179 @@
+.
+├── LICENSE
+├── README.md
+├── aliyun-display
+│   ├── net
+│   └── uni
+├── analyse
+│   ├── F值选表.pdf
+│   ├── F值选表.xlsx
+│   ├── charts
+│   │   ├── assets
+│   │   │   ├── chart.min.js
+│   │   │   └── data
+│   │   │       └── data.js
+│   │   ├── index.html
+│   │   └── index.js
+│   ├── fg对比.pdf
+│   ├── fg对比.xlsx
+│   ├── graph
+│   │   ├── net
+│   │   │   ├── data.js
+│   │   │   └── index.html
+│   │   └── uni
+│   │       ├── data.js
+│   │       └── index.html
+│   ├── package-lock.json
+│   ├── package.json
+│   └── server
+│       └── index.js
+├── data
+│   ├── README.md
+│   ├── fake
+│   │   └── charts
+│   │       ├── group.json
+│   │       └── hinge.json
+│   ├── fg
+│   │   ├── fg1.txt
+│   │   ├── fg10.txt
+│   │   ├── fg100.txt
+│   │   ├── fg1000.txt
+│   │   ├── fg50.txt
+│   │   └── table.txt
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── results
+│   │   ├── attactions
+│   │   │   ├── F.json
+│   │   │   ├── F_CONNECT.json
+│   │   │   ├── F_CONNECT_LESS.json
+│   │   │   ├── F_Table.json
+│   │   │   ├── F_Table.txt
+│   │   │   ├── K.json
+│   │   │   ├── R_1.json
+│   │   │   ├── W.json
+│   │   │   └── cpp-data
+│   │   │       ├── cppData.json
+│   │   │       ├── cppData.txt
+│   │   │       ├── cppDataShort.json
+│   │   │       ├── cppDataShort.txt
+│   │   │       ├── cppDataTX.txt
+│   │   │       ├── indexArray.json
+│   │   │       ├── indexMap.json
+│   │   │       └── lessData
+│   │   │           ├── cppData.json
+│   │   │           ├── cppData.txt
+│   │   │           ├── cppDataShort.json
+│   │   │           ├── cppDataShort.txt
+│   │   │           ├── cppDataTX.txt
+│   │   │           ├── indexArray.json
+│   │   │           └── indexMap.json
+│   │   ├── basic-next.json
+│   │   ├── basic-next.xlsx
+│   │   ├── basic-origin.json
+│   │   ├── captains
+│   │   │   ├── captain-contact-list.json
+│   │   │   ├── captain-contact-stat.json
+│   │   │   ├── captains-simplied-all.json
+│   │   │   ├── captains-simplied-name.json
+│   │   │   ├── captains-simplied-uid.json
+│   │   │   ├── captains.json
+│   │   │   ├── cpp-data
+│   │   │   │   ├── cppData.json
+│   │   │   │   ├── cppData.txt
+│   │   │   │   ├── indexArray.json
+│   │   │   │   └── indexMap.json
+│   │   │   └── slice
+│   │   │       ├── 1.json
+│   │   │       ├── 10.json
+│   │   │       ├── 11.json
+│   │   │       ├── 2.json
+│   │   │       ├── 3.json
+│   │   │       ├── 4.json
+│   │   │       ├── 5.json
+│   │   │       ├── 6.json
+│   │   │       ├── 7.json
+│   │   │       ├── 8.json
+│   │   │       ├── 9.json
+│   │   │       └── test.json
+│   │   ├── charts
+│   │   │   ├── alone.json
+│   │   │   ├── center.json
+│   │   │   ├── chartData.json
+│   │   │   ├── cppOutput.txt
+│   │   │   ├── cppOutputQ.txt
+│   │   │   ├── group.json
+│   │   │   ├── hinge.json
+│   │   │   └── special-points.txt
+│   │   ├── counts
+│   │   │   ├── average-view.json
+│   │   │   ├── count.json
+│   │   │   └── view.json
+│   │   ├── info.log
+│   │   ├── slice
+│   │   │   ├── 1.json
+│   │   │   ├── 10.json
+│   │   │   ├── 11.json
+│   │   │   ├── 2.json
+│   │   │   ├── 3.json
+│   │   │   ├── 4.json
+│   │   │   ├── 5.json
+│   │   │   ├── 6.json
+│   │   │   ├── 7.json
+│   │   │   ├── 8.json
+│   │   │   ├── 9.json
+│   │   │   └── test.json
+│   │   ├── top500.json
+│   │   ├── top500.txt
+│   │   └── top500.xlsx
+│   └── scripts
+│       ├── browserSpider.js
+│       ├── browserSpiderFilter.js
+│       ├── charts-generater
+│       │   ├── generateCaptainLineChartsData.js
+│       │   ├── generateChartData.js
+│       │   ├── generateChartDataNet.js
+│       │   ├── generateChartDataUni.js
+│       │   ├── generateFTableData.js
+│       │   ├── generateFansLineChartsData.js
+│       │   ├── generateQLineChartsData.js
+│       │   ├── generateViewAverLineChartsData.js
+│       │   └── generateXTableData.js
+│       ├── getAllVideoCnt.js
+│       ├── getAllVideoView.js
+│       ├── getAttraction.js
+│       ├── getAttractionConect.js
+│       ├── getAttractionConectLess.js
+│       ├── getAverageVideoView.js
+│       ├── getCaptainContact.js
+│       ├── getCaptainContactCnt.js
+│       ├── getCaptainList.js
+│       ├── getChartsDataFromCppOutput.js
+│       ├── getFakeChartsData.js
+│       ├── simplifyCaptain.js
+│       ├── toJSON.js
+│       ├── toTable.js
+│       ├── transformCaptainContactToCppData.js
+│       ├── transformConnectToCppData.js
+│       ├── transformConnectToCppDataLess.js
+│       └── utils
+│           ├── debugger.js
+│           ├── highest-contact.js
+│           ├── joinCaptainSlice.js
+│           ├── length.js
+│           └── slice.js
+├── essay
+│   ├── F值选表.xlsx
+│   ├── Q值（35475-end）.jpg
+│   ├── Q值（37515-37600）.jpg
+│   ├── fg对比.xlsx
+│   ├── 运用SNA分析交际圈中的中心人物与枢纽人物.md
+│   ├── 运用SNA分析交际圈中的中心人物与枢纽人物.pdf
+│   ├── 粉丝数.jpg
+│   ├── 舰长数.jpg
+│   ├── 星系图.png
+│   ├── 网状图.png
+│   └── 平均播放数.png
+└── tree.txt
+
+27 directories, 149 files

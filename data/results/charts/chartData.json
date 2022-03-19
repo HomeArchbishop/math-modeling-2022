@@ -14,9 +14,9 @@
     },
     {
       "id": "2",
-      "name": "祖娅纳惜_中心人物",
+      "name": "祖娅纳惜",
       "val": 20,
-      "group": 3
+      "group": 2
     },
     {
       "id": "3",
@@ -50,39 +50,39 @@
     },
     {
       "id": "8",
-      "name": "C酱です_中心人物",
-      "val": 20,
-      "group": 3
-    },
-    {
-      "id": "9",
-      "name": "小狼XF_中心人物",
-      "val": 20,
-      "group": 3
-    },
-    {
-      "id": "10",
-      "name": "一块电鹿板",
+      "name": "C酱です",
       "val": 20,
       "group": 2
     },
     {
-      "id": "11",
-      "name": "冰糖IO_边缘人物",
+      "id": "9",
+      "name": "小狼XF",
+      "val": 20,
+      "group": 2
+    },
+    {
+      "id": "10",
+      "name": "一块电鹿板_边缘人物",
       "val": 20,
       "group": 1
     },
     {
-      "id": "12",
-      "name": "HiiroVTuber",
+      "id": "11",
+      "name": "冰糖IO_中心人物",
       "val": 20,
-      "group": 2
+      "group": 3
+    },
+    {
+      "id": "12",
+      "name": "HiiroVTuber_中心人物",
+      "val": 20,
+      "group": 3
     },
     {
       "id": "13",
-      "name": "神楽Mea_Official_中心人物",
+      "name": "神楽Mea_Official",
       "val": 20,
-      "group": 3
+      "group": 2
     },
     {
       "id": "14",
@@ -98,15 +98,15 @@
     },
     {
       "id": "16",
-      "name": "AIChannel中国绊爱",
+      "name": "AIChannel中国绊爱_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "17",
-      "name": "新月冰冰_边缘人物",
+      "name": "新月冰冰",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "18",
@@ -176,15 +176,15 @@
     },
     {
       "id": "29",
-      "name": "有栖Mana_Official",
+      "name": "有栖Mana_Official_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "30",
-      "name": "阿萨Aza_边缘人物",
+      "name": "阿萨Aza",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "31",
@@ -266,15 +266,15 @@
     },
     {
       "id": "44",
-      "name": "猫宫日向Official",
+      "name": "猫宫日向Official_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "45",
-      "name": "星宮汐Official_边缘人物",
+      "name": "星宮汐Official",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "46",
@@ -296,15 +296,15 @@
     },
     {
       "id": "49",
-      "name": "是姬拉Kira",
+      "name": "是姬拉Kira_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "50",
-      "name": "还有醒着的么_边缘人物",
+      "name": "还有醒着的么",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "51",
@@ -320,9 +320,9 @@
     },
     {
       "id": "53",
-      "name": "物述有栖Official",
+      "name": "物述有栖Official_中心人物",
       "val": 20,
-      "group": 2
+      "group": 3
     },
     {
       "id": "54",
@@ -368,9 +368,9 @@
     },
     {
       "id": "61",
-      "name": "雫るる_Official",
+      "name": "雫るる_Official_中心人物",
       "val": 20,
-      "group": 2
+      "group": 3
     },
     {
       "id": "62",
@@ -386,9 +386,9 @@
     },
     {
       "id": "64",
-      "name": "怠惰V_official",
+      "name": "怠惰V_official_中心人物",
       "val": 20,
-      "group": 2
+      "group": 3
     },
     {
       "id": "65",
@@ -404,9 +404,9 @@
     },
     {
       "id": "67",
-      "name": "可愛的島風",
+      "name": "可愛的島風_中心人物",
       "val": 20,
-      "group": 2
+      "group": 3
     },
     {
       "id": "68",
@@ -428,15 +428,15 @@
     },
     {
       "id": "71",
-      "name": "葛叶Official",
+      "name": "葛叶Official_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "72",
-      "name": "雪狐桑_边缘人物",
+      "name": "雪狐桑",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "73",
@@ -482,33 +482,33 @@
     },
     {
       "id": "80",
-      "name": "本间向日葵Official",
+      "name": "本间向日葵Official_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "81",
-      "name": "笹木咲Official_边缘人物",
+      "name": "笹木咲Official",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "82",
-      "name": "彼岸霜滢Eliro",
+      "name": "彼岸霜滢Eliro_中心人物",
       "val": 20,
-      "group": 2
+      "group": 3
     },
     {
       "id": "83",
-      "name": "兮子cc",
+      "name": "兮子cc_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "84",
-      "name": "黑泽诺亚NOIR_边缘人物",
+      "name": "黑泽诺亚NOIR",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "85",
@@ -560,15 +560,15 @@
     },
     {
       "id": "93",
-      "name": "叫我默默酱",
+      "name": "叫我默默酱_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "94",
-      "name": "ShizukouOfficial_边缘人物",
+      "name": "ShizukouOfficial",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "95",
@@ -596,15 +596,15 @@
     },
     {
       "id": "99",
-      "name": "❀Sakulaˇ小舞",
+      "name": "❀Sakulaˇ小舞_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "100",
-      "name": "白雪深白Official_边缘人物",
+      "name": "白雪深白Official",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "101",
@@ -638,21 +638,21 @@
     },
     {
       "id": "106",
-      "name": "九重紫Official",
-      "val": 20,
-      "group": 2
-    },
-    {
-      "id": "107",
-      "name": "一支橘猫_边缘人物",
+      "name": "九重紫Official_边缘人物",
       "val": 20,
       "group": 1
     },
     {
-      "id": "108",
-      "name": "心斎桥オクトOfficial",
+      "id": "107",
+      "name": "一支橘猫",
       "val": 20,
       "group": 2
+    },
+    {
+      "id": "108",
+      "name": "心斎桥オクトOfficial_边缘人物",
+      "val": 20,
+      "group": 1
     },
     {
       "id": "109",
@@ -662,9 +662,9 @@
     },
     {
       "id": "110",
-      "name": "艾因Eine_边缘人物",
+      "name": "艾因Eine",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "111",
@@ -734,21 +734,21 @@
     },
     {
       "id": "122",
-      "name": "猫芒ベル_Official",
-      "val": 20,
-      "group": 2
-    },
-    {
-      "id": "123",
-      "name": "ywwuyi_边缘人物",
+      "name": "猫芒ベル_Official_边缘人物",
       "val": 20,
       "group": 1
     },
     {
-      "id": "124",
-      "name": "星瞳_Official_中心人物",
+      "id": "123",
+      "name": "ywwuyi",
       "val": 20,
-      "group": 3
+      "group": 2
+    },
+    {
+      "id": "124",
+      "name": "星瞳_Official",
+      "val": 20,
+      "group": 2
     },
     {
       "id": "125",
@@ -770,15 +770,15 @@
     },
     {
       "id": "128",
-      "name": "蜜汁工坊_中心人物",
+      "name": "蜜汁工坊",
       "val": 20,
-      "group": 3
+      "group": 2
     },
     {
       "id": "129",
-      "name": "阳向心美Official",
+      "name": "阳向心美Official_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "130",
@@ -788,9 +788,9 @@
     },
     {
       "id": "131",
-      "name": "古堡龙姬_边缘人物",
+      "name": "古堡龙姬_中心人物",
       "val": 20,
-      "group": 1
+      "group": 3
     },
     {
       "id": "132",
@@ -800,15 +800,15 @@
     },
     {
       "id": "133",
-      "name": "扇宝",
+      "name": "扇宝_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "134",
-      "name": "鹰宫莉音Official_边缘人物",
+      "name": "鹰宫莉音Official",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "135",
@@ -818,21 +818,21 @@
     },
     {
       "id": "136",
-      "name": "雨街F",
-      "val": 20,
-      "group": 2
-    },
-    {
-      "id": "137",
-      "name": "鈴宮鈴_边缘人物",
+      "name": "雨街F_边缘人物",
       "val": 20,
       "group": 1
     },
     {
-      "id": "138",
-      "name": "筱魈Syou_中心人物",
+      "id": "137",
+      "name": "鈴宮鈴",
       "val": 20,
-      "group": 3
+      "group": 2
+    },
+    {
+      "id": "138",
+      "name": "筱魈Syou",
+      "val": 20,
+      "group": 2
     },
     {
       "id": "139",
@@ -878,15 +878,15 @@
     },
     {
       "id": "146",
-      "name": "鹿野灸",
+      "name": "鹿野灸_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "147",
-      "name": "椎名唯华Official_边缘人物",
+      "name": "椎名唯华Official",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "148",
@@ -908,21 +908,21 @@
     },
     {
       "id": "151",
-      "name": "尼奈nine_Official",
+      "name": "尼奈nine_Official_中心人物",
       "val": 20,
-      "group": 2
+      "group": 3
     },
     {
       "id": "152",
-      "name": "椎名菜羽Official",
+      "name": "椎名菜羽Official_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "153",
-      "name": "妙妙子Official_边缘人物",
+      "name": "妙妙子Official",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "154",
@@ -938,15 +938,15 @@
     },
     {
       "id": "156",
-      "name": "眞白花音_Official",
+      "name": "眞白花音_Official_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "157",
-      "name": "魔王酱Maou__边缘人物",
+      "name": "魔王酱Maou_",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "158",
@@ -956,27 +956,27 @@
     },
     {
       "id": "159",
-      "name": "未来明-MiraiAkari",
+      "name": "未来明-MiraiAkari_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "160",
-      "name": "米白zzz_边缘人物",
-      "val": 20,
-      "group": 1
-    },
-    {
-      "id": "161",
-      "name": "修女克蕾雅Official",
+      "name": "米白zzz",
       "val": 20,
       "group": 2
     },
     {
-      "id": "162",
-      "name": "早凉_边缘人物",
+      "id": "161",
+      "name": "修女克蕾雅Official_边缘人物",
       "val": 20,
       "group": 1
+    },
+    {
+      "id": "162",
+      "name": "早凉",
+      "val": 20,
+      "group": 2
     },
     {
       "id": "163",
@@ -1022,9 +1022,9 @@
     },
     {
       "id": "170",
-      "name": "混沌之神-最终虚妄_中心人物",
+      "name": "混沌之神-最终虚妄",
       "val": 20,
-      "group": 3
+      "group": 2
     },
     {
       "id": "171",
@@ -1082,9 +1082,9 @@
     },
     {
       "id": "180",
-      "name": "塔克Tako",
+      "name": "塔克Tako_中心人物",
       "val": 20,
-      "group": 2
+      "group": 3
     },
     {
       "id": "181",
@@ -1124,9 +1124,9 @@
     },
     {
       "id": "187",
-      "name": "希月萌奈_中心人物",
+      "name": "希月萌奈_边缘人物",
       "val": 20,
-      "group": 3
+      "group": 1
     },
     {
       "id": "188",
@@ -1136,33 +1136,33 @@
     },
     {
       "id": "189",
-      "name": "诺拉Nora_Heitis_边缘人物",
+      "name": "诺拉Nora_Heitis",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "190",
-      "name": "里奈Rina",
+      "name": "里奈Rina_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "191",
-      "name": "adogsama_边缘人物",
-      "val": 20,
-      "group": 1
-    },
-    {
-      "id": "192",
-      "name": "勾檀Mayumi",
+      "name": "adogsama",
       "val": 20,
       "group": 2
     },
     {
-      "id": "193",
-      "name": "东爱璃Lovely_边缘人物",
+      "id": "192",
+      "name": "勾檀Mayumi_边缘人物",
       "val": 20,
       "group": 1
+    },
+    {
+      "id": "193",
+      "name": "东爱璃Lovely",
+      "val": 20,
+      "group": 2
     },
     {
       "id": "194",
@@ -1220,21 +1220,21 @@
     },
     {
       "id": "203",
-      "name": "花留Karu_中心人物",
-      "val": 20,
-      "group": 3
-    },
-    {
-      "id": "204",
-      "name": "郡道美玲Official",
+      "name": "花留Karu",
       "val": 20,
       "group": 2
     },
     {
-      "id": "205",
-      "name": "奶茶姬_边缘人物",
+      "id": "204",
+      "name": "郡道美玲Official_边缘人物",
       "val": 20,
       "group": 1
+    },
+    {
+      "id": "205",
+      "name": "奶茶姬",
+      "val": 20,
+      "group": 2
     },
     {
       "id": "206",
@@ -1256,9 +1256,9 @@
     },
     {
       "id": "209",
-      "name": "安堂いなり_official",
+      "name": "安堂いなり_official_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "210",
@@ -1268,15 +1268,15 @@
     },
     {
       "id": "211",
-      "name": "花满Official_边缘人物",
+      "name": "花满Official",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "212",
-      "name": "陆婉莹GodRiku_中心人物",
+      "name": "陆婉莹GodRiku",
       "val": 20,
-      "group": 3
+      "group": 2
     },
     {
       "id": "213",
@@ -1334,9 +1334,9 @@
     },
     {
       "id": "222",
-      "name": "弥希Miki",
+      "name": "弥希Miki_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "223",
@@ -1346,9 +1346,9 @@
     },
     {
       "id": "224",
-      "name": "幽乜Yume_边缘人物",
+      "name": "幽乜Yume",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "225",
@@ -1364,15 +1364,15 @@
     },
     {
       "id": "227",
-      "name": "召唤师yami",
+      "name": "召唤师yami_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "228",
-      "name": "蜜球兔_边缘人物",
+      "name": "蜜球兔",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "229",
@@ -1394,9 +1394,9 @@
     },
     {
       "id": "232",
-      "name": "神奈希_Official",
+      "name": "神奈希_Official_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "233",
@@ -1406,9 +1406,9 @@
     },
     {
       "id": "234",
-      "name": "山崎薰薰_边缘人物",
+      "name": "山崎薰薰",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "235",
@@ -1448,9 +1448,9 @@
     },
     {
       "id": "241",
-      "name": "茉里Mari",
+      "name": "茉里Mari_中心人物",
       "val": 20,
-      "group": 2
+      "group": 3
     },
     {
       "id": "242",
@@ -1484,27 +1484,27 @@
     },
     {
       "id": "247",
-      "name": "火羽ひのめ",
+      "name": "火羽ひのめ_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "248",
-      "name": "-Yu酱-_边缘人物",
-      "val": 20,
-      "group": 1
-    },
-    {
-      "id": "249",
-      "name": "画外灯official",
+      "name": "-Yu酱-",
       "val": 20,
       "group": 2
     },
     {
-      "id": "250",
-      "name": "姬熊结璃Official_边缘人物",
+      "id": "249",
+      "name": "画外灯official_边缘人物",
       "val": 20,
       "group": 1
+    },
+    {
+      "id": "250",
+      "name": "姬熊结璃Official",
+      "val": 20,
+      "group": 2
     },
     {
       "id": "251",
@@ -1514,9 +1514,9 @@
     },
     {
       "id": "252",
-      "name": "中单光一",
+      "name": "中单光一_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "253",
@@ -1526,15 +1526,15 @@
     },
     {
       "id": "254",
-      "name": "爱宫Milk_Official_边缘人物",
+      "name": "爱宫Milk_Official",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "255",
-      "name": "罗菈Rola",
+      "name": "罗菈Rola_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "256",
@@ -1544,21 +1544,21 @@
     },
     {
       "id": "257",
-      "name": "艾露露Ailurus_边缘人物",
+      "name": "艾露露Ailurus",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "258",
-      "name": "丝茉茉i_中心人物",
+      "name": "丝茉茉i_边缘人物",
       "val": 20,
-      "group": 3
+      "group": 1
     },
     {
       "id": "259",
-      "name": "申䒕雅_小雅Official_边缘人物",
+      "name": "申䒕雅_小雅Official",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "260",
@@ -1580,9 +1580,9 @@
     },
     {
       "id": "263",
-      "name": "艾尔莎_Channel",
+      "name": "艾尔莎_Channel_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "264",
@@ -1598,21 +1598,21 @@
     },
     {
       "id": "266",
-      "name": "社筑Official_边缘人物",
-      "val": 20,
-      "group": 1
-    },
-    {
-      "id": "267",
-      "name": "龙西Rinya",
+      "name": "社筑Official",
       "val": 20,
       "group": 2
     },
     {
-      "id": "268",
-      "name": "永恒娘Official_边缘人物",
+      "id": "267",
+      "name": "龙西Rinya_边缘人物",
       "val": 20,
       "group": 1
+    },
+    {
+      "id": "268",
+      "name": "永恒娘Official",
+      "val": 20,
+      "group": 2
     },
     {
       "id": "269",
@@ -1628,9 +1628,9 @@
     },
     {
       "id": "271",
-      "name": "永远永远酱w",
+      "name": "永远永远酱w_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "272",
@@ -1646,9 +1646,9 @@
     },
     {
       "id": "274",
-      "name": "羽澄照乌愈Official_边缘人物",
+      "name": "羽澄照乌愈Official",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "275",
@@ -1658,15 +1658,15 @@
     },
     {
       "id": "276",
-      "name": "北柚香Yuka",
+      "name": "北柚香Yuka_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "277",
-      "name": "雨宫水希Channel_边缘人物",
+      "name": "雨宫水希Channel",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "278",
@@ -1676,15 +1676,15 @@
     },
     {
       "id": "279",
-      "name": "诺莺Nox",
+      "name": "诺莺Nox_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "280",
-      "name": "满月Channel_边缘人物",
+      "name": "满月Channel",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "281",
@@ -1706,9 +1706,9 @@
     },
     {
       "id": "284",
-      "name": "白雪巴_Official",
+      "name": "白雪巴_Official_中心人物",
       "val": 20,
-      "group": 2
+      "group": 3
     },
     {
       "id": "285",
@@ -1718,15 +1718,15 @@
     },
     {
       "id": "286",
-      "name": "果汁erR",
+      "name": "果汁erR_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "287",
-      "name": "神狐かな_Official_边缘人物",
+      "name": "神狐かな_Official",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "288",
@@ -1766,9 +1766,9 @@
     },
     {
       "id": "294",
-      "name": "日月咪玉-官方",
+      "name": "日月咪玉-官方_中心人物",
       "val": 20,
-      "group": 2
+      "group": 3
     },
     {
       "id": "295",
@@ -1790,27 +1790,27 @@
     },
     {
       "id": "298",
-      "name": "五月织姬ctsu",
+      "name": "五月织姬ctsu_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "299",
-      "name": "犬卷日鞠-官方WACTOR_边缘人物",
-      "val": 20,
-      "group": 1
-    },
-    {
-      "id": "300",
-      "name": "福山Master",
+      "name": "犬卷日鞠-官方WACTOR",
       "val": 20,
       "group": 2
     },
     {
-      "id": "301",
-      "name": "碧居結衣_边缘人物",
+      "id": "300",
+      "name": "福山Master_边缘人物",
       "val": 20,
       "group": 1
+    },
+    {
+      "id": "301",
+      "name": "碧居結衣",
+      "val": 20,
+      "group": 2
     },
     {
       "id": "302",
@@ -1832,9 +1832,9 @@
     },
     {
       "id": "305",
-      "name": "莉姆丝OvO",
+      "name": "莉姆丝OvO_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "306",
@@ -1844,9 +1844,9 @@
     },
     {
       "id": "307",
-      "name": "S1娘Official_边缘人物",
+      "name": "S1娘Official",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "308",
@@ -1856,9 +1856,9 @@
     },
     {
       "id": "309",
-      "name": "黑桐亚里亚Official",
+      "name": "黑桐亚里亚Official_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "310",
@@ -1868,9 +1868,9 @@
     },
     {
       "id": "311",
-      "name": "玛莎儿今天摸了吗_边缘人物",
+      "name": "玛莎儿今天摸了吗",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "312",
@@ -1880,15 +1880,15 @@
     },
     {
       "id": "313",
-      "name": "眠眠official",
+      "name": "眠眠official_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "314",
-      "name": "吉诺儿kino_边缘人物",
+      "name": "吉诺儿kino",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "315",
@@ -1898,33 +1898,33 @@
     },
     {
       "id": "316",
-      "name": "诗小雅Official",
+      "name": "诗小雅Official_中心人物",
       "val": 20,
-      "group": 2
+      "group": 3
     },
     {
       "id": "317",
-      "name": "羽咲Rabi_Official",
+      "name": "羽咲Rabi_Official_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "318",
-      "name": "童田明治Official_边缘人物",
-      "val": 20,
-      "group": 1
-    },
-    {
-      "id": "319",
-      "name": "龙包包",
+      "name": "童田明治Official",
       "val": 20,
       "group": 2
     },
     {
-      "id": "320",
-      "name": "PlanyaChannel_边缘人物",
+      "id": "319",
+      "name": "龙包包_边缘人物",
       "val": 20,
       "group": 1
+    },
+    {
+      "id": "320",
+      "name": "PlanyaChannel",
+      "val": 20,
+      "group": 2
     },
     {
       "id": "321",
@@ -1946,15 +1946,15 @@
     },
     {
       "id": "324",
-      "name": "相羽初叶_Official",
+      "name": "相羽初叶_Official_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "325",
-      "name": "小毛拔了个火罐_边缘人物",
+      "name": "小毛拔了个火罐",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "326",
@@ -1964,9 +1964,9 @@
     },
     {
       "id": "327",
-      "name": "Kirikosama_",
+      "name": "Kirikosama__边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "328",
@@ -1976,9 +1976,9 @@
     },
     {
       "id": "329",
-      "name": "姉崎雪美Official_边缘人物",
+      "name": "姉崎雪美Official",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "330",
@@ -1994,9 +1994,9 @@
     },
     {
       "id": "332",
-      "name": "唐九夏还想再躺一下",
+      "name": "唐九夏还想再躺一下_中心人物",
       "val": 20,
-      "group": 2
+      "group": 3
     },
     {
       "id": "333",
@@ -2018,9 +2018,9 @@
     },
     {
       "id": "336",
-      "name": "火花工作室_中心人物",
+      "name": "火花工作室_边缘人物",
       "val": 20,
-      "group": 3
+      "group": 1
     },
     {
       "id": "337",
@@ -2030,9 +2030,9 @@
     },
     {
       "id": "338",
-      "name": "卖火柴的可可亚_边缘人物",
+      "name": "卖火柴的可可亚_中心人物",
       "val": 20,
-      "group": 1
+      "group": 3
     },
     {
       "id": "339",
@@ -2066,15 +2066,15 @@
     },
     {
       "id": "344",
-      "name": "惑姬Waku",
+      "name": "惑姬Waku_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "345",
-      "name": "鸢尾牙牙_边缘人物",
+      "name": "鸢尾牙牙",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "346",
@@ -2096,9 +2096,9 @@
     },
     {
       "id": "349",
-      "name": "雪橙姬_中心人物",
+      "name": "雪橙姬",
       "val": 20,
-      "group": 3
+      "group": 2
     },
     {
       "id": "350",
@@ -2162,9 +2162,9 @@
     },
     {
       "id": "360",
-      "name": "伊莎贝拉Official",
+      "name": "伊莎贝拉Official_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "361",
@@ -2174,15 +2174,15 @@
     },
     {
       "id": "362",
-      "name": "金克茜Jinxy_边缘人物",
+      "name": "金克茜Jinxy",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "363",
-      "name": "花玲Karin",
+      "name": "花玲Karin_中心人物",
       "val": 20,
-      "group": 2
+      "group": 3
     },
     {
       "id": "364",
@@ -2198,27 +2198,27 @@
     },
     {
       "id": "366",
-      "name": "晴奈子_Senako",
+      "name": "晴奈子_Senako_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "367",
-      "name": "立花结那official_边缘人物",
-      "val": 20,
-      "group": 1
-    },
-    {
-      "id": "368",
-      "name": "尼奥喵Neil_Channel",
+      "name": "立花结那official",
       "val": 20,
       "group": 2
     },
     {
-      "id": "369",
-      "name": "纸木铗Official_边缘人物",
+      "id": "368",
+      "name": "尼奥喵Neil_Channel_边缘人物",
       "val": 20,
       "group": 1
+    },
+    {
+      "id": "369",
+      "name": "纸木铗Official",
+      "val": 20,
+      "group": 2
     },
     {
       "id": "370",
@@ -2228,39 +2228,39 @@
     },
     {
       "id": "371",
-      "name": "辻蓝佳音瑠_channel_中心人物",
+      "name": "辻蓝佳音瑠_channel",
+      "val": 20,
+      "group": 2
+    },
+    {
+      "id": "372",
+      "name": "黎歌Neeko_channel_中心人物",
       "val": 20,
       "group": 3
     },
     {
-      "id": "372",
-      "name": "黎歌Neeko_channel",
-      "val": 20,
-      "group": 2
-    },
-    {
       "id": "373",
-      "name": "珞璃Official",
+      "name": "珞璃Official_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "374",
-      "name": "初焰Hatsuhomura_边缘人物",
-      "val": 20,
-      "group": 1
-    },
-    {
-      "id": "375",
-      "name": "漪月灵-Aether-",
+      "name": "初焰Hatsuhomura",
       "val": 20,
       "group": 2
     },
     {
-      "id": "376",
-      "name": "月兮Channel_边缘人物",
+      "id": "375",
+      "name": "漪月灵-Aether-_边缘人物",
       "val": 20,
       "group": 1
+    },
+    {
+      "id": "376",
+      "name": "月兮Channel",
+      "val": 20,
+      "group": 2
     },
     {
       "id": "377",
@@ -2276,27 +2276,27 @@
     },
     {
       "id": "379",
-      "name": "咕咕挞Official",
+      "name": "咕咕挞Official_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "380",
-      "name": "極彩夜うい_official_边缘人物",
-      "val": 20,
-      "group": 1
-    },
-    {
-      "id": "381",
-      "name": "佐娜Sanya",
+      "name": "極彩夜うい_official",
       "val": 20,
       "group": 2
     },
     {
-      "id": "382",
-      "name": "咲间妮娜Official_边缘人物",
+      "id": "381",
+      "name": "佐娜Sanya_边缘人物",
       "val": 20,
       "group": 1
+    },
+    {
+      "id": "382",
+      "name": "咲间妮娜Official",
+      "val": 20,
+      "group": 2
     },
     {
       "id": "383",
@@ -2312,27 +2312,27 @@
     },
     {
       "id": "385",
-      "name": "月兔华-WACTOR官方",
+      "name": "月兔华-WACTOR官方_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "386",
-      "name": "满天星Hoshi_边缘人物",
-      "val": 20,
-      "group": 1
-    },
-    {
-      "id": "387",
-      "name": "许亦真_REAL",
+      "name": "满天星Hoshi",
       "val": 20,
       "group": 2
     },
     {
-      "id": "388",
-      "name": "多拉Official_边缘人物",
+      "id": "387",
+      "name": "许亦真_REAL_边缘人物",
       "val": 20,
       "group": 1
+    },
+    {
+      "id": "388",
+      "name": "多拉Official",
+      "val": 20,
+      "group": 2
     },
     {
       "id": "389",
@@ -2342,15 +2342,15 @@
     },
     {
       "id": "390",
-      "name": "真绯瑠mahiru",
+      "name": "真绯瑠mahiru_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "391",
-      "name": "雪桃子Official_边缘人物",
+      "name": "雪桃子Official",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "392",
@@ -2408,15 +2408,15 @@
     },
     {
       "id": "401",
-      "name": "木暮Piyoko-官方_中心人物",
+      "name": "木暮Piyoko-官方_边缘人物",
       "val": 20,
-      "group": 3
+      "group": 1
     },
     {
       "id": "402",
-      "name": "花守海露希Official_边缘人物",
+      "name": "花守海露希Official",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "403",
@@ -2426,15 +2426,15 @@
     },
     {
       "id": "404",
-      "name": "辛西娅_Cynthiaa",
+      "name": "辛西娅_Cynthiaa_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "405",
-      "name": "nelineli音乐_边缘人物",
+      "name": "nelineli音乐",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "406",
@@ -2444,9 +2444,9 @@
     },
     {
       "id": "407",
-      "name": "望月希咏",
+      "name": "望月希咏_中心人物",
       "val": 20,
-      "group": 2
+      "group": 3
     },
     {
       "id": "408",
@@ -2474,9 +2474,9 @@
     },
     {
       "id": "412",
-      "name": "咪诺今天也要元气满满_中心人物",
+      "name": "咪诺今天也要元气满满",
       "val": 20,
-      "group": 3
+      "group": 2
     },
     {
       "id": "413",
@@ -2504,27 +2504,27 @@
     },
     {
       "id": "417",
-      "name": "呆呆喵",
+      "name": "呆呆喵_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "418",
-      "name": "御坂伊里奇_Official_边缘人物",
-      "val": 20,
-      "group": 1
-    },
-    {
-      "id": "419",
-      "name": "紫海由爱Channel",
+      "name": "御坂伊里奇_Official",
       "val": 20,
       "group": 2
     },
     {
-      "id": "420",
-      "name": "信使akane_边缘人物",
+      "id": "419",
+      "name": "紫海由爱Channel_边缘人物",
       "val": 20,
       "group": 1
+    },
+    {
+      "id": "420",
+      "name": "信使akane",
+      "val": 20,
+      "group": 2
     },
     {
       "id": "421",
@@ -2534,15 +2534,15 @@
     },
     {
       "id": "422",
-      "name": "纸代棗-やすゆきOfficial_中心人物",
+      "name": "纸代棗-やすゆきOfficial_边缘人物",
       "val": 20,
-      "group": 3
+      "group": 1
     },
     {
       "id": "423",
-      "name": "塔尔斯Tails_边缘人物",
+      "name": "塔尔斯Tails",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "424",
@@ -2570,9 +2570,9 @@
     },
     {
       "id": "428",
-      "name": "团小哈",
+      "name": "团小哈_中心人物",
       "val": 20,
-      "group": 2
+      "group": 3
     },
     {
       "id": "429",
@@ -2582,9 +2582,9 @@
     },
     {
       "id": "430",
-      "name": "一颗芽Official_中心人物",
+      "name": "一颗芽Official",
       "val": 20,
-      "group": 3
+      "group": 2
     },
     {
       "id": "431",
@@ -2600,15 +2600,15 @@
     },
     {
       "id": "433",
-      "name": "AI艾灵",
+      "name": "AI艾灵_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "434",
-      "name": "东堂比乃Official_边缘人物",
+      "name": "东堂比乃Official",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "435",
@@ -2642,9 +2642,9 @@
     },
     {
       "id": "440",
-      "name": "库莉姆Cream",
+      "name": "库莉姆Cream_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "441",
@@ -2654,21 +2654,21 @@
     },
     {
       "id": "442",
-      "name": "七个喵Nana_边缘人物",
-      "val": 20,
-      "group": 1
-    },
-    {
-      "id": "443",
-      "name": "亚可Ako",
+      "name": "七个喵Nana",
       "val": 20,
       "group": 2
     },
     {
-      "id": "444",
-      "name": "绮良kira_Official_边缘人物",
+      "id": "443",
+      "name": "亚可Ako_边缘人物",
       "val": 20,
       "group": 1
+    },
+    {
+      "id": "444",
+      "name": "绮良kira_Official",
+      "val": 20,
+      "group": 2
     },
     {
       "id": "445",
@@ -2678,15 +2678,15 @@
     },
     {
       "id": "446",
-      "name": "舞元启介Official_中心人物",
+      "name": "舞元启介Official",
       "val": 20,
-      "group": 3
+      "group": 2
     },
     {
       "id": "447",
-      "name": "咿籽芥末大尾巴狼itsu",
+      "name": "咿籽芥末大尾巴狼itsu_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "448",
@@ -2696,9 +2696,9 @@
     },
     {
       "id": "449",
-      "name": "这是亦枝YY_边缘人物",
+      "name": "这是亦枝YY",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "450",
@@ -2708,27 +2708,27 @@
     },
     {
       "id": "451",
-      "name": "云玉鸾",
+      "name": "云玉鸾_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "452",
-      "name": "呆梓爱你嗷_边缘人物",
-      "val": 20,
-      "group": 1
-    },
-    {
-      "id": "453",
-      "name": "OscarAnd奥斯卡",
+      "name": "呆梓爱你嗷",
       "val": 20,
       "group": 2
     },
     {
-      "id": "454",
-      "name": "雷凌凌_边缘人物",
+      "id": "453",
+      "name": "OscarAnd奥斯卡_边缘人物",
       "val": 20,
       "group": 1
+    },
+    {
+      "id": "454",
+      "name": "雷凌凌",
+      "val": 20,
+      "group": 2
     },
     {
       "id": "455",
@@ -2756,9 +2756,9 @@
     },
     {
       "id": "459",
-      "name": "栗子酱RIKO",
+      "name": "栗子酱RIKO_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "460",
@@ -2768,21 +2768,21 @@
     },
     {
       "id": "461",
-      "name": "璃月青空_边缘人物",
-      "val": 20,
-      "group": 1
-    },
-    {
-      "id": "462",
-      "name": "Okome_VTuber官方频道",
+      "name": "璃月青空",
       "val": 20,
       "group": 2
     },
     {
-      "id": "463",
-      "name": "岱川Doris_边缘人物",
+      "id": "462",
+      "name": "Okome_VTuber官方频道_边缘人物",
       "val": 20,
       "group": 1
+    },
+    {
+      "id": "463",
+      "name": "岱川Doris",
+      "val": 20,
+      "group": 2
     },
     {
       "id": "464",
@@ -2840,15 +2840,15 @@
     },
     {
       "id": "473",
-      "name": "露露娜Ruruna",
+      "name": "露露娜Ruruna_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "474",
-      "name": "路理Kuri_边缘人物",
+      "name": "路理Kuri",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "475",
@@ -2858,15 +2858,15 @@
     },
     {
       "id": "476",
-      "name": "天川花乃official",
+      "name": "天川花乃official_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "477",
-      "name": "有加plus_边缘人物",
+      "name": "有加plus",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "478",
@@ -2882,9 +2882,9 @@
     },
     {
       "id": "480",
-      "name": "立花遥はるか",
+      "name": "立花遥はるか_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "481",
@@ -2894,9 +2894,9 @@
     },
     {
       "id": "482",
-      "name": "罗兹Blazing_边缘人物",
+      "name": "罗兹Blazing",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "483",
@@ -2906,15 +2906,15 @@
     },
     {
       "id": "484",
-      "name": "蛙吹Keroro",
+      "name": "蛙吹Keroro_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "485",
-      "name": "ninnikuu_边缘人物",
+      "name": "ninnikuu",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "486",
@@ -2924,15 +2924,15 @@
     },
     {
       "id": "487",
-      "name": "夏卜卜",
+      "name": "夏卜卜_边缘人物",
       "val": 20,
-      "group": 2
+      "group": 1
     },
     {
       "id": "488",
-      "name": "是水良不是奶良_Official_边缘人物",
+      "name": "是水良不是奶良_Official",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "489",
@@ -2942,21 +2942,21 @@
     },
     {
       "id": "490",
-      "name": "DJGun",
-      "val": 20,
-      "group": 2
-    },
-    {
-      "id": "491",
-      "name": "蝉堇_边缘人物",
+      "name": "DJGun_边缘人物",
       "val": 20,
       "group": 1
     },
     {
-      "id": "492",
-      "name": "万灼",
+      "id": "491",
+      "name": "蝉堇",
       "val": 20,
       "group": 2
+    },
+    {
+      "id": "492",
+      "name": "万灼_边缘人物",
+      "val": 20,
+      "group": 1
     },
     {
       "id": "493",
@@ -2966,9 +2966,9 @@
     },
     {
       "id": "494",
-      "name": "虎丸幼一_边缘人物",
+      "name": "虎丸幼一",
       "val": 20,
-      "group": 1
+      "group": 2
     },
     {
       "id": "495",

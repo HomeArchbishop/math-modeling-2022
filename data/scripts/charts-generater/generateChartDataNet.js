@@ -3,9 +3,9 @@ const { resolve } = require('path')
 
 // const infoData = require('../results/top500.json')
 const groupData = require('../../results/charts/group.json')
-const hingeData = require('../../results/charts/hinge.json')
-const centerData = require('../../results/charts/center.json')
-const aloneData = require('../../results/charts/alone.json')
+const hingeData = require('../../results/charts/hinge.json').map(i => i - 1)
+const centerData = require('../../results/charts/center.json').map(i => i - 1)
+const aloneData = require('../../results/charts/alone.json').map(i => i - 1)
 const F = require('../../results/attactions/F.json')
 const K = require('../../results/attactions/K.json')
 const W = require('../../results/attactions/W.json')
@@ -48,22 +48,12 @@ vtbNameList.forEach(vtbName => {
   connData[vtbIndex].forEach((val, index) => {
     if (val === 1) {
       // vtbIndex -> index
-      // if (groupData[vtbIndex] === groupData[index]) {
-        chartData.links.push({
-          source: '' + vtbIndex,
-          target: '' + index,
-          width: 8,
-          length: 200
-        })
-      // }
-      // } else if (hingeData[groupData[vtbIndex]] === vtbIndex && hingeData[groupData[index]] === index) {
-      //   chartData.links.push({
-      //     source: '' + vtbIndex,
-      //     target: '' + index,
-      //     width: 1,
-      //     length: 3300
-      //   })
-      // }
+      chartData.links.push({
+        source: '' + vtbIndex,
+        target: '' + index,
+        width: 8,
+        length: 200
+      })
       tmp[indexArray[vtbIndex]]++
       tmp[indexArray[index]]++
     }
@@ -77,4 +67,4 @@ vtbNameList.forEach(vtbName => {
 console.log(groupTmp.length)
 
 fs.writeFileSync(resolve(__dirname, '../../results/charts/chartData.json'), JSON.stringify(chartData, null, 2))
-fs.writeFileSync(resolve(__dirname, '../../../analyse/charts/ex/data.js'), 'var data = ' + JSON.stringify(chartData))
+fs.writeFileSync(resolve(__dirname, '../../../analyse/graph/net/data.js'), 'var data = ' + JSON.stringify(chartData))

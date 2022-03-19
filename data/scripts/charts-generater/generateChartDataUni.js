@@ -3,12 +3,9 @@ const { resolve } = require('path')
 
 // const infoData = require('../results/top500.json')
 const groupData = require('../../results/charts/group.json')
-const hingeData = require('../../results/charts/hinge.json')
-const centerData = require('../../results/charts/center.json')
-const aloneData = require('../../results/charts/alone.json')
-const F = require('../../results/attactions/F.json')
-const K = require('../../results/attactions/K.json')
-const W = require('../../results/attactions/W.json')
+const hingeData = require('../../results/charts/hinge.json').map(i => i - 1)
+const centerData = require('../../results/charts/center.json').map(i => i - 1)
+const aloneData = require('../../results/charts/alone.json').map(i => i - 1)
 const indexMap = require('../../results/attactions/cpp-data/lessData/indexMap.json')
 const indexArray = require('../../results/attactions/cpp-data/lessData/indexArray.json')
 const connData = require('../../results/attactions/cpp-data/lessData/cppData.json')
@@ -23,7 +20,9 @@ const renderName = vtbName => {
     ? vtbName + '_中心人物'
     : aloneData.includes(indexMap[vtbName])
       ? vtbName + '_边缘人物'
-      : vtbName
+      : hingeData.includes(indexMap[vtbName])
+        ? vtbName + '_枢纽人物'
+        : vtbName
 }
 vtbNameList.forEach(vtbName => {
   chartData.nodes.push({
@@ -76,4 +75,4 @@ vtbNameList.forEach(vtbName => {
 console.log(groupTmp.length)
 
 fs.writeFileSync(resolve(__dirname, '../../results/charts/chartData.json'), JSON.stringify(chartData, null, 2))
-fs.writeFileSync(resolve(__dirname, '../../../analyse/charts/ex/data.js'), 'var data = ' + JSON.stringify(chartData))
+fs.writeFileSync(resolve(__dirname, '../../../analyse/graph/uni/data.js'), 'var data = ' + JSON.stringify(chartData))
