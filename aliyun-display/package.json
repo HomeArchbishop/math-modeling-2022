@@ -1,0 +1,18 @@
+{
+  "name": "math-modeling",
+  "version": "1.0.0",
+  "description": "2022 math modeling",
+  "main": "server/index",
+  "scripts": {
+    "start": "npx pm2 start server/index.js --name math-modeling-2022",
+    "dev": "npx pm2 start server/index.js --watch --name math-modeling-2022-dev",
+    "stop": "npx pm2 delete math-modeling-2022",
+    "stop:dev": "npx pm2 delete math-modeling-2022-dev"
+  },
+  "author": "拆家大主教",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "pm2": "^5.2.0"
+  }
+}
