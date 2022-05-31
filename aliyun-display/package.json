@@ -5,7 +5,7 @@
   "main": "server/index",
   "scripts": {
     "start": "npx pm2 start server/index.js --name math-modeling-2022",
-    "dev": "npx pm2 start server/index.js --watch --name math-modeling-2022-dev",
+    "dev": "npx pm2 start server/index.js --name math-modeling-2022-dev",
     "stop": "npx pm2 delete math-modeling-2022",
     "stop:dev": "npx pm2 delete math-modeling-2022-dev"
   },

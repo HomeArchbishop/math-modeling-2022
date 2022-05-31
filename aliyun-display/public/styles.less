@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   width: 100vw;
   height: 100vh;
@@ -10,20 +14,45 @@ body {
   height: 100vh;
   margin: 0;
   padding: 0;
-  .head-tip-container {
+  .announcement-banner {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     padding: 10px;
-    background: #0b1a28;
-    color: #428bca;
+    background: #1a1b23; // #2f3241;
+    color: #9feaf9;
   }
   main {
-    h1.title {
+    .jumbotron {
+      padding: 30px 0 60px 0;
+      background: #2b2e3b;
+      .img-ctnr {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        align-items: center;
+        img {
+          height: 300px;
+        }
+      }
+      p.jumbotron-lead {
+        width: 100%;
+        text-align: center;
+        font-size: 3em;
+        color: #9feaf9;
+        margin: 0;
+      }
+    }
+
+    .row {
       width: 100%;
-      text-align: center;
-      font-size: 3em;
+      .ctnr {
+        margin-right: auto;
+        margin-left: auto;
+      }
     }
   }
 }
